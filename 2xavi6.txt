@@ -248,7 +248,7 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL436/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="Golden Edge" tvg-name="Golden Edge" group-title="CINEMA" tvg-logo="golden-edge.png",Golden Edge
 https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjIzJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj16cHVrcHloZXhvaGR3N3AmbGFuPTI=&f=.m3u8
 #EXTINF:-1 tvg-id="Golden Multiplex" tvg-name="Golden Multiplex" group-title="CINEMA" tvg-logo="http://imagenes.gatotv.com/logos/canales/golden_mpx.png",Golden Multiplex
-
+http://carlosjerson.ml/5.php/http://31.220.40.116/LiveEdge/GoldenMPLXLA/chunklist_w1175594578_b1000000.m3u8?securehash=j8aMgPf1u4E-Vxyrb7YkbgxZT0_12J6iKLNfekJ-RBM=&securestarttime=1462397174&secureendtime=1462404374&secureuserid=0996456d59626e7d3202c6b0e6372324
 #EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel" group-title="CINEMA" tvg-logo="http://wefixmx.com/cgi-bin/Logos/paramount.png",Paramount Channel
 http://104.131.117.246:8081/chuy/76/455-Paramount/playlist.m3u8
 #EXTINF:-1 tvg-id="Multicinema" tvg-name="Multicinema" group-title="CINEMA" tvg-logo="http://www.mastv.com.mx/images/mc.png",Multicinema [COLOR red]OFF[/COLOR]
@@ -336,7 +336,7 @@ http://play.uktvnow.net:1935/live/skynews.stream/playlist.m3u8?wmsAuthSign=c2Vyd
 #EXTINF:-1 tvg-name="Total Play" tvg-logo="http://wefixmx.com/cgi-bin/Logos/PREMIUM.png" group-title="ETIQUETAS",              [COLOR gold][B]== PREMIUM ==[/B][/COLOR]
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-id="Golden Premier" tvg-name="Golden Premier" group-title="PREMIUM" tvg-logo="http://www.gigacable.com.mx/images/logos/premier.png",Golden Premier
-http://107.170.187.68:8081/live/sky68/G0ldenpreMIERE2csp/playlist.m3u8
+http://carlosjerson.ml/8.php/http://31.220.40.116/LiveEdge/GoldenPremier1LA/chunklist_w531994813_b1000000.m3u8?securehash=Erwl8aACtdBWQc4rGu27f-Q406vsxp2hNyqAQr9n1QI=&securestarttime=1462397204&secureendtime=1462404404&secureuserid=0996456d59626e7d3202c6b0e6372324
 #EXTINF:-1 tvg-id="Golden Premier 2" tvg-name="Golden Premier 2" tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/golden_premier_2-mediano.png" group-title="PREMIUM",Golden Premier 2
 http://107.170.187.68:8081/live/sky68/G0ldenpreMIERE2csp/playlist.m3u8
 #EXTINF:-1 tvg-id="Fox 1 HD" tvg-name="Fox 1 HD" tvg-logo="fox-1-hd.png" group-title="PREMIUM",Fox 1 HD
@@ -362,19 +362,19 @@ http://199.180.114.174:88/files/hbo222222.m3u8
 #EXTINF:-1 tvg-id="HBO Family (E)" tvg-name="HBO Family (E)" tvg-logo="http://wefixmx.com/cgi-bin/Logos/hbo-family.png" group-title="PREMIUM",HBO Family
 http://209.126.124.25:8081/live/sky79/652-HBOFamilycsp/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO Plus (E)" tvg-name="HBO Plus (E)" tvg-logo="http://wefixmx.com/cgi-bin/Logos/hbo-plus.png" group-title="PREMIUM",HBO Plus Este
-
+http://carlosjerson.ml/6.php/http://31.220.40.116/LiveEdge/HBOPus2LASD/chunklist_w1884599025_b1000000.m3u8?securehash=f9Wj1XlY-hllz2fzEWQ5C69RNehCsu-sGsqNA1wzsAc=&securestarttime=1462397057&secureendtime=1462404257&secureuserid=0996456d59626e7d3202c6b0e6372324
 #EXTINF:-1 tvg-id="HBO Plus (W)" tvg-name="HBO Plus (W)" tvg-logo="http://wefixmx.com/cgi-bin/Logos/hbo-plus.png" group-title="PREMIUM",HBO Plus Oeste
 
 #EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="http://wefixmx.com/cgi-bin/Logos/hbo-signature.png" group-title="PREMIUM",HBO Signature
 
 #EXTINF:-1 tvg-name="Max UP" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/e/e6/Maxup.png/revision/latest?cb=20160224211516" group-title="PREMIUM",Max UP
-
+http://carlosjerson.ml/6.php/http://31.220.40.116/LiveEdge/MaxUPSD/chunklist_w1569872620_b1000000.m3u8?securehash=6B58JrtEu-_qyPizdnuSeF-cKwGkTZX-civEwXvPgWo=&securestarttime=1462397124&secureendtime=1462404324&secureuserid=0996456d59626e7d3202c6b0e6372324
 #EXTINF:-1 tvg-id="Max Prime (E)" tvg-name="Max Prime Este" tvg-logo="max-prime.png" group-title="PREMIUM",Max Prime Este
-http://premium-mxl-iptv.cf/two/kodi:1522499c912ce92b5649bdb07a943473747940a0/379/playlist.m3u8
+http://carlosjerson.ml/1.php/http://31.220.40.116/LiveEdge/MaxPrime2LASD/media_w320365283_b1000000_1723.ts?securehash=U9xlrJRyxYaayjE6rvCOY3650fAm_2AtcA1unH86Ofc%3D&securestarttime=1462397146&secureendtime=1462404346&secureuserid=0996456d59626e7d3202c6b0e6372324
 #EXTINF:-1 tvg-id="Max Prime (W)" tvg-name="Max Prime Oeste" tvg-logo="max-prime.png" group-title="PREMIUM",Max Prime Oeste
 
 #EXTINF:-1 tvg-id="MAX" tvg-name="MAX" tvg-logo="max.png" group-title="PREMIUM",MAX
-
+http://carlosjerson.ml/9.php/http://31.220.40.116/LiveEdge/MAXLASD/chunklist_w773401383_b1000000.m3u8?securehash=42M7yW2kRq4_RrS-7Iy6kWLifqE8Btex4W1rRAVn5Oo=&securestarttime=1462397100&secureendtime=1462404300&secureuserid=0996456d59626e7d3202c6b0e6372324
 #EXTINF:-1 tvg-name="Canal+ Estrenos" tvg-logo="http://web.telecable.es/documents/36258/140776/logocanal%2Bestrenos.png/31fed192-b686-4dc5-80da-9b95c811df05?t=1453198015207" group-title="PREMIUM",Canal+ Estrenos
 http://62.210.162.88:80/live/ES152/1258321032016/1721.ts
 #EXTINF:-1 tvg-name="Canal+ Series" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a9/Canal%2B_S%C3%A9ries_logo.png" group-title="PREMIUM",Canal+ Series
@@ -466,13 +466,13 @@ http://107.170.241.204:8081/live/74/fossportsss3/playlist.m3u8
 #EXTINF:-1 tvg-id="Fox Sports 3" tvg-name="Fox Sports 3” group-title="DEPORTES" tvg-logo="foxsports3.png",Fox Sports 3 HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="TDN" tvg-name="TDN" tvg-logo="tdn-mx.png" group-title="DEPORTES",TDN Mexico
-http://50.30.46.181:8081/live/79/tdnn/playlist.m3u8
+http://carlosjerson.ml/6.php/http://31.220.40.116/LiveEdge/TDNMXLA/chunklist_w652792099_b1000000.m3u8?securehash=3hBQ87IhJqNtJWCelyg5bl4Jcj-0_sPQuqCmmsG0cwo=&securestarttime=1462396853&secureendtime=1462404053&secureuserid=0996456d59626e7d3202c6b0e6372324
 #EXTINF:-1 tvg-id="TDN" tvg-name="TDN" tvg-logo="tdn-mx.png" group-title="DEPORTES",TDN Mexico 2
-
+http://50.30.46.181:8081/live/79/tdnn/playlist.m3u8
 #EXTINF:-1 tvg-id="Planeta Futbol" tvg-name="Planeta Futbol" tvg-logo="http://vignette2.wikia.nocookie.net/liga-mx/images/c/c1/Planeta_Futbol_Logo.png/revision/latest?cb=20150512175207&path-prefix=es" group-title="DEPORTES",Planeta Futbol
 
 #EXTINF:-1 tvg-id="Univisión TDN" tvg-name="Univisión TDN" tvg-logo="http://wefixmx.com/cgi-bin/Logos/utdn.png" group-title="DEPORTES",Univision TDN
-
+http://carlosjerson.ml/1.php/http://31.220.40.116/LiveEdge/UnivisionTDNLA/chunklist_w544507550_b1000000.m3u8?securehash=UtXy3D6491GjbbWp_hZff5IXLMijyNItgjYUKbyIOTs=&securestarttime=1462397004&secureendtime=1462404204&secureuserid=0996456d59626e7d3202c6b0e6372324
 #EXTINF:-1 tvg-id="Univisión TDN" tvg-name="Univisión TDN" tvg-logo="http://wefixmx.com/cgi-bin/Logos/utdn.png" group-title="DEPORTES",Univision TDN
 
 #EXTINF:-1 tvg-id="Univisión TDN USA" tvg-name="Univisión TDN USA" tvg-logo="http://vignette2.wikia.nocookie.net/primeradivisiondemexico/images/5/5c/Univision_tdn.png/revision/latest?cb=20130930004516&path-prefix=es" group-title="DEPORTES",Univision TDN USA
