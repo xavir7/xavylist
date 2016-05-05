@@ -133,7 +133,7 @@ http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
 #EXTINF:-1 tvg-id="Mundo Fox" tvg-name="Mundo Fox" tvg-logo="mundofox.png" group-title="ENTRETENIMIENTO",Mundo Fox
 http://104.131.117.246:8081/chuy/76/088-MundoFox/playlist.m3u8
 #EXTINF:-1 tvg-name="Univisión Network (East) (UNI)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Univision_2013_logo.png" group-title="ENTRETENIMIENTO",Univision
-http://video07-lax.streamup.com/app/univision2chivas_69s-stream_aac/playlist.m3u8
+http://stream.ssh101.com:1935/live/univision101/chunklist.m3u8??sd=10
 #EXTINF:-1 tvg-name="Univisión" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Univision_2013_logo.png" group-title="ENTRETENIMIENTO",Univision 2
 http://video06-atl.streamup.com/app/univision2chivas_69s-stream_aac/chunklist.m3u8
 #EXTINF:-1 tvg-name="Univisión" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Univision_2013_logo.png" group-title="ENTRETENIMIENTO",Univision 3
@@ -476,7 +476,7 @@ http://carlosjerson.ml/1.php/http://31.220.40.116/LiveEdge/UnivisionTDNLA/chunkl
 #EXTINF:-1 tvg-id="Univisión TDN" tvg-name="Univisión TDN" tvg-logo="http://wefixmx.com/cgi-bin/Logos/utdn.png" group-title="DEPORTES",Univision TDN
 
 #EXTINF:-1 tvg-id="Univisión TDN USA" tvg-name="Univisión TDN USA" tvg-logo="http://vignette2.wikia.nocookie.net/primeradivisiondemexico/images/5/5c/Univision_tdn.png/revision/latest?cb=20130930004516&path-prefix=es" group-title="DEPORTES",Univision TDN USA
-
+http://stream.ssh101.com:1935/live/deporteshd1/chunklist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports" tvg-logo="http://wefixmx.com/cgi-bin/Logos/pokercentral.png" group-title="DEPORTES",Poker Central
 http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
 #EXTINF:-1 tvg-name="TVC Deportes" tvg-logo="http://www.miralotv.org/images/tvcdeportes.png" group-title="DEPORTES”,TVC Deportes *(Prueba)*
