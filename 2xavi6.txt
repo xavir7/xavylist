@@ -6,7 +6,7 @@ http://streaming203.radionomy.com:80/City-Dance-Radio
 
 #EXTINF:-1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/LOCALES.png" group-title="ETIQUETAS" , [COLOR yellow] ****LOCALES****[/COLOR]
 http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:-1 tvg-name="Canal 2 MX" tvg-logo="http://wefixmx.com/cgi-bin/Logos/televisamty.png" group-title="LOCALES",Televisa MTY
+#EXTINF:-1 tvg-name="Televisa MTY" tvg-logo="http://wefixmx.com/cgi-bin/Logos/televisamty.png" group-title="LOCALES",Televisa MTY
 http://209.126.124.25:8081/live/stalkviejo/localView2csp/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 2 MX" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/b/b5/160px-Canal_de_las_Estrellas_logo.svg.png/revision/latest?cb=20140201032504" group-title="LOCALES",Canal de las Estrellas MX
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
@@ -98,8 +98,10 @@ http://streaming203.radionomy.com:80/City-Dance-Radio
 http://45.55.143.151:8081/live/sky97/CanalFox/playlist.m3u8
 #EXTINF:-1 tvg-id="Fox" tvg-name="FOX HD" group-title="ENTRETENIMIENTO" tvg-logo="foxhd.png",FOX HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE05.m3u8
-#EXTINF:-1 tvg-id="Sony HD" tvg-name="Sony HD" group-title="ENTRETENIMIENTO" tvg-logo="sony.png",Sony HD
+#EXTINF:-1 tvg-id="Sony" tvg-name="Sony HD" group-title="ENTRETENIMIENTO" tvg-logo="sony.png",Sony
 http://107.170.241.204:8081/live/74/sony/playlist.m3u8
+#EXTINF:-1 tvg-id="Sony HD" tvg-name="Sony HD" group-title="ENTRETENIMIENTO" tvg-logo="sony.png",Sony HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL203/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="Unicable" tvg-name="Unicable" group-title="ENTRETENIMIENTO" tvg-logo="http://wefixmx.com/cgi-bin/Logos/unicable.png",Unicable
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL218/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner Channel" group-title="ENTRETENIMIENTO" tvg-logo="http://wefixmx.com/cgi-bin/Logos/warner-hd.png",Warner Channel
@@ -356,25 +358,25 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL424/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="HBO (W)" tvg-name="HBO (E)" tvg-logo="http://wefixmx.com/cgi-bin/Logos/hbo.png" group-title="PREMIUM",HBO
 http://104.131.94.43:1382/live/sky97/hbo1/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="http://wefixmx.com/cgi-bin/Logos/hbo2.png" group-title="PREMIUM",HBO 2
-http://198.199.79.108:8081/live/77/HBO2/playlist.m3u8
+
 #EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="http://wefixmx.com/cgi-bin/Logos/hbo2.png" group-title="PREMIUM",HBO 2
-http://199.180.114.174:88/files/hbo222222.m3u8
+
 #EXTINF:-1 tvg-id="HBO Family (E)" tvg-name="HBO Family (E)" tvg-logo="http://wefixmx.com/cgi-bin/Logos/hbo-family.png" group-title="PREMIUM",HBO Family
 http://209.126.124.25:8081/live/sky79/652-HBOFamilycsp/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO Plus (E)" tvg-name="HBO Plus (E)" tvg-logo="http://wefixmx.com/cgi-bin/Logos/hbo-plus.png" group-title="PREMIUM",HBO Plus Este
-http://carlosjerson.ml/6.php/http://31.220.40.116/LiveEdge/HBOPus2LASD/chunklist_w1884599025_b1000000.m3u8?securehash=f9Wj1XlY-hllz2fzEWQ5C69RNehCsu-sGsqNA1wzsAc=&securestarttime=1462397057&secureendtime=1462404257&secureuserid=0996456d59626e7d3202c6b0e6372324
-#EXTINF:-1 tvg-id="HBO Plus (W)" tvg-name="HBO Plus (W)" tvg-logo="http://wefixmx.com/cgi-bin/Logos/hbo-plus.png" group-title="PREMIUM",HBO Plus Oeste
 
+#EXTINF:-1 tvg-id="HBO Plus (W)" tvg-name="HBO Plus (W)" tvg-logo="http://wefixmx.com/cgi-bin/Logos/hbo-plus.png" group-title="PREMIUM",HBO Plus Oeste
+http://carlosjerson.ml/4.php/http://31.220.40.116/LiveEdge/HBOPus2LASD/chunklist_w1704567879_b1000000.m3u8?securehash=7eS37xCwKTQ3VWvqqblIN73lajESaVIeEQvgyOG3hA8=&securestarttime=1462497015&secureendtime=1462504215&secureuserid=0996456d59626e7d3202c6b0e6372324
 #EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="http://wefixmx.com/cgi-bin/Logos/hbo-signature.png" group-title="PREMIUM",HBO Signature
 
 #EXTINF:-1 tvg-name="Max UP" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/e/e6/Maxup.png/revision/latest?cb=20160224211516" group-title="PREMIUM",Max UP
-http://carlosjerson.ml/6.php/http://31.220.40.116/LiveEdge/MaxUPSD/chunklist_w1569872620_b1000000.m3u8?securehash=6B58JrtEu-_qyPizdnuSeF-cKwGkTZX-civEwXvPgWo=&securestarttime=1462397124&secureendtime=1462404324&secureuserid=0996456d59626e7d3202c6b0e6372324
+http://carlosjerson.ml/1.php/http://31.220.40.116/LiveEdge/MaxUPSD/chunklist_w541982724_b1000000.m3u8?securehash=6SxfNpqn1TfL9PMLlYGtBTkwlYKu1N-mciHLcgqUGb0=&securestarttime=1462497178&secureendtime=1462504378&secureuserid=0996456d59626e7d3202c6b0e6372324
 #EXTINF:-1 tvg-id="Max Prime (E)" tvg-name="Max Prime Este" tvg-logo="max-prime.png" group-title="PREMIUM",Max Prime Este
 http://carlosjerson.ml/1.php/http://31.220.40.116/LiveEdge/MaxPrime2LASD/media_w320365283_b1000000_1723.ts?securehash=U9xlrJRyxYaayjE6rvCOY3650fAm_2AtcA1unH86Ofc%3D&securestarttime=1462397146&secureendtime=1462404346&secureuserid=0996456d59626e7d3202c6b0e6372324
 #EXTINF:-1 tvg-id="Max Prime (W)" tvg-name="Max Prime Oeste" tvg-logo="max-prime.png" group-title="PREMIUM",Max Prime Oeste
-
-#EXTINF:-1 tvg-id="MAX" tvg-name="MAX" tvg-logo="max.png" group-title="PREMIUM",MAX
-http://carlosjerson.ml/9.php/http://31.220.40.116/LiveEdge/MAXLASD/chunklist_w773401383_b1000000.m3u8?securehash=42M7yW2kRq4_RrS-7Iy6kWLifqE8Btex4W1rRAVn5Oo=&securestarttime=1462397100&secureendtime=1462404300&secureuserid=0996456d59626e7d3202c6b0e6372324
+http://carlosjerson.ml/8.php/http://31.220.40.116/LiveEdge/MaxPrime2LASD/chunklist_w1500075296_b1000000.m3u8?securehash=Q9fWkfej24FtEla-_T7FC2245cjA7GYjGk5E4hQDUeE=&securestarttime=1462497208&secureendtime=1462504408&secureuserid=0996456d59626e7d3202c6b0e6372324
+#EXTINF:-1 tvg-id="MAX" tvg-name="MAX" tvg-logo="http://wefixmx.com/cgi-bin/Logos/Max_HD.png" group-title="PREMIUM",MAX
+http://carlosjerson.ml/7.php/http://31.220.40.116/LiveEdge/MAXLASD/chunklist_w896392943_b1000000.m3u8?securehash=CR2vqDJrlcPXIyID19C31dOJrd7oW_Mwq4Fh0jG9YIU=&securestarttime=1462497141&secureendtime=1462504341&secureuserid=0996456d59626e7d3202c6b0e6372324
 #EXTINF:-1 tvg-name="Canal+ Estrenos" tvg-logo="http://web.telecable.es/documents/36258/140776/logocanal%2Bestrenos.png/31fed192-b686-4dc5-80da-9b95c811df05?t=1453198015207" group-title="PREMIUM",Canal+ Estrenos
 http://62.210.162.88:80/live/ES152/1258321032016/1721.ts
 #EXTINF:-1 tvg-name="Canal+ Series" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a9/Canal%2B_S%C3%A9ries_logo.png" group-title="PREMIUM",Canal+ Series
@@ -439,13 +441,13 @@ http://158.69.127.167:7676/hls/ESPN.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" group-title="DEPORTES" tvg-logo="http://wefixmx.com/cgi-bin/Logos/espn-2.png",ESPN 2
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE03.m3u8
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" group-title="DEPORTES" tvg-logo="espn-2.png",ESPN 2 HD
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" group-title="DEPORTES" tvg-logo="http://wefixmx.com/cgi-bin/Logos/espn2hd.png",ESPN 2 HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" group-title="DEPORTES" tvg-logo="http://tele-envivo.com/wp-content/uploads/2016/01/espn-2-mexico.png",ESPN 2 US
 
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" group-title="DEPORTES" tvg-logo="http://wefixmx.com/cgi-bin/Logos/espn-3.png",ESPN 3
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE03.m3u8
-#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" group-title="DEPORTES" tvg-logo="espn-3.png",ESPN 3 HD
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" group-title="DEPORTES" tvg-logo="http://wefixmx.com/cgi-bin/Logos/ESPN3HD.png",ESPN 3 HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="Fox Sports" tvg-name="Fox Sports" group-title="DEPORTES" tvg-logo="foxsport.png",Fox Sports
 http://104.236.46.32:8081/live/sky96/1Foxsports111/playlist.m3u8
@@ -466,13 +468,13 @@ http://107.170.241.204:8081/live/74/fossportsss3/playlist.m3u8
 #EXTINF:-1 tvg-id="Fox Sports 3" tvg-name="Fox Sports 3” group-title="DEPORTES" tvg-logo="foxsports3.png",Fox Sports 3 HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="TDN" tvg-name="TDN" tvg-logo="tdn-mx.png" group-title="DEPORTES",TDN Mexico
-http://carlosjerson.ml/6.php/http://31.220.40.116/LiveEdge/TDNMXLA/chunklist_w652792099_b1000000.m3u8?securehash=3hBQ87IhJqNtJWCelyg5bl4Jcj-0_sPQuqCmmsG0cwo=&securestarttime=1462396853&secureendtime=1462404053&secureuserid=0996456d59626e7d3202c6b0e6372324
+http://carlosjerson.ml/4.php/http://31.220.40.116/LiveEdge/TDNMXLA/chunklist_w2047875368_b1000000.m3u8?securehash=c8zLd-bsN4J7heiSOdj1pwGqHr52OHVUZeoyM-pOlBI=&securestarttime=1462496921&secureendtime=1462504121&secureuserid=0996456d59626e7d3202c6b0e6372324
 #EXTINF:-1 tvg-id="TDN" tvg-name="TDN" tvg-logo="tdn-mx.png" group-title="DEPORTES",TDN Mexico 2
 http://50.30.46.181:8081/live/79/tdnn/playlist.m3u8
 #EXTINF:-1 tvg-id="Planeta Futbol" tvg-name="Planeta Futbol" tvg-logo="http://vignette2.wikia.nocookie.net/liga-mx/images/c/c1/Planeta_Futbol_Logo.png/revision/latest?cb=20150512175207&path-prefix=es" group-title="DEPORTES",Planeta Futbol
 
 #EXTINF:-1 tvg-id="Univisión TDN" tvg-name="Univisión TDN" tvg-logo="http://wefixmx.com/cgi-bin/Logos/utdn.png" group-title="DEPORTES",Univision TDN
-http://carlosjerson.ml/1.php/http://31.220.40.116/LiveEdge/UnivisionTDNLA/chunklist_w544507550_b1000000.m3u8?securehash=UtXy3D6491GjbbWp_hZff5IXLMijyNItgjYUKbyIOTs=&securestarttime=1462397004&secureendtime=1462404204&secureuserid=0996456d59626e7d3202c6b0e6372324
+http://carlosjerson.ml/10.php/http://31.220.40.116/LiveEdge/UnivisionTDNLA/chunklist_w1579335459_b1000000.m3u8?securehash=k4IEl-U-kcrFNEI5CGKXtXiml6XeavgOsrQ8NgQLGX8=&securestarttime=1462496873&secureendtime=1462504073&secureuserid=0996456d59626e7d3202c6b0e6372324
 #EXTINF:-1 tvg-id="Univisión TDN" tvg-name="Univisión TDN" tvg-logo="http://wefixmx.com/cgi-bin/Logos/utdn.png" group-title="DEPORTES",Univision TDN
 
 #EXTINF:-1 tvg-id="Univisión TDN USA" tvg-name="Univisión TDN USA" tvg-logo="http://vignette2.wikia.nocookie.net/primeradivisiondemexico/images/5/5c/Univision_tdn.png/revision/latest?cb=20130930004516&path-prefix=es" group-title="DEPORTES",Univision TDN USA
