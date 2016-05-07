@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/wetvsolo214x144.png" group-title="ETIQUETAS", [COLOR aqua]***WeTV***[/COLOR]
 http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:-1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/ABRIL.png" group-title="ETIQUETAS", [COLOR aqua]<Abril 2016>[/COLOR]
+#EXTINF:-1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/mayo.png" group-title="ETIQUETAS", [COLOR pink lamingo]<Mayo 2016>[/COLOR]
 http://streaming203.radionomy.com:80/City-Dance-Radio
 
 #EXTINF:-1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/LOCALES.png" group-title="ETIQUETAS" , [COLOR yellow] ****LOCALES****[/COLOR]
@@ -128,9 +128,9 @@ http://104.236.61.232:8081/live/sky69/Telenovelasmom/playlist.m3u8
 http://104.131.117.246:8081/chuy/76/884-TNTSeries/playlist.m3u8
 #EXTINF:-1 tvg-name="El Gourmet" tvg-logo="el-gourmet.png" group-title="ENTRETENIMIENTO",El Gourmet
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL268/PROFILE03.m3u8
-#EXTINF:-1 tvg-id="Telemundo" tvg-name="Telemundo" tvg-logo="http://wefixmx.com/cgi-bin/Logos/Telemundo.png" group-title="ENTRETENIMIENTO",Telemundo USA
+#EXTINF:-1 tvg-id="Telemundo 39" tvg-name="Telemundo" tvg-logo="http://wefixmx.com/cgi-bin/Logos/telemundo39.png" group-title="ENTRETENIMIENTO",Telemundo 39
 http://iphone-streaming.ustream.tv/uhls/22243668/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-id="Telemundo" tvg-name="Telemundo" tvg-logo="http://wefixmx.com/cgi-bin/Logos/Telemundo.png" group-title="ENTRETENIMIENTO",Telemundo 2
+#EXTINF:-1 tvg-id="Telemundo" tvg-name="Telemundo" tvg-logo="http://wefixmx.com/cgi-bin/Logos/Telemundo.png" group-title="ENTRETENIMIENTO",Telemundo
 http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
 #EXTINF:-1 tvg-id="Mundo Fox" tvg-name="Mundo Fox" tvg-logo="mundofox.png" group-title="ENTRETENIMIENTO",Mundo Fox
 http://104.131.117.246:8081/chuy/76/088-MundoFox/playlist.m3u8
@@ -190,7 +190,7 @@ rtmp://198.255.17.18:443/live?tGlifPXyNvNbvs8TY8d8ruPZV8KTih3n/live_mega_simpson
 
 #EXTINF:-1 tvg-name="ETIQUETAS" tvg-logo="http://wefixmx.com/cgi-bin/Logos/CULTURAL.png" group-title="ETIQUETAS",            [COLOR yellow] ****CULTURAL****[/COLOR]
 http://
-#EXTINF:-1 tvg-name="Animal Planet" tvg-logo="animalplanet.png" group-title="CULTURAL",Animal Planet
+#EXTINF:-1 tvg-name="Animal Planet" tvg-logo="http://wefixmx.com/cgi-bin/Logos/animalplanet.png" group-title="CULTURAL",Animal Planet
 http://45.55.143.151:8081/live/sky96/animalplanet/playlist.m3u8
 #EXTINF:-1 tvg-name="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f7/HGTV_logo_2015.png" group-title="CULTURAL",HGTV
 http://play.uktvnow.net:1935/live/hgtv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNC8yMDE2IDY6MzM6NDUgQU0maGFzaF92YWx1ZT1HMWJkWEkrNnFubjBBbTh4bDlreGNnPT0mdmFsaWRtaW51dGVzPTIw
@@ -267,9 +267,9 @@ http://107.170.241.204:8081/live/74/CineCanal/playlist.m3u8
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL430/PROFILE05.m3u8
 #EXTINF:-1 tvg-name="Cinemax" group-title="CINEMA" tvg-logo="http://4.bp.blogspot.com/-gxLdIo1BywI/Vg4MpELHCRI/AAAAAAAAAJI/2iRn0q9cgTQ/s1600/cinemax.png",Cinemax
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL481/PROFILE03.m3u8
-#EXTINF:-1 tvg-name="AMC" group-title="CINEMA" tvg-logo="amc.png”,AMC
+#EXTINF:-1 tvg-name="AMC" group-title="CINEMA" tvg-logo="http://wefixmx.com/cgi-bin/Logos/amc.png",AMC
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL490/PROFILE03.m3u8
-#EXTINF:-1 tvg-name="AMC HD" group-title="CINEMA" tvg-logo="amc.png”,AMC HD
+#EXTINF:-1 tvg-name="AMC HD" group-title="CINEMA" tvg-logo="http://wefixmx.com/cgi-bin/Logos/amchd.png”,AMC HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL444/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="Space" tvg-name="Space" group-title="CINEMA" tvg-logo="space.png",Space
 http://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjMxJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj16cHVrcHloZXhvaGR3N3AmbGFuPTI=&f=.m3u8
@@ -357,7 +357,7 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL421/PROFILE03.m3u8
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL424/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="HBO (W)" tvg-name="HBO (E)" tvg-logo="http://wefixmx.com/cgi-bin/Logos/hbo.png" group-title="PREMIUM",HBO
 http://104.131.94.43:1382/live/sky97/hbo1/playlist.m3u8
-#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="http://wefixmx.com/cgi-bin/Logos/hbo2.png" group-title="PREMIUM",HBO 2 *Solo LazyIPTV*
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="http://wefixmx.com/cgi-bin/Logos/hbo2.png" group-title="PREMIUM",HBO 2 *solo LazyIPTV*
 http://199.180.114.174:88/files/hbo222222.m3u8
 #EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="http://wefixmx.com/cgi-bin/Logos/hbo2.png" group-title="PREMIUM",HBO 2
 
@@ -468,9 +468,9 @@ http://107.170.241.204:8081/live/74/fossportsss3/playlist.m3u8
 #EXTINF:-1 tvg-id="Fox Sports 3" tvg-name="Fox Sports 3” group-title="DEPORTES" tvg-logo="foxsports3.png",Fox Sports 3 HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="TDN" tvg-name="TDN" tvg-logo="tdn-mx.png" group-title="DEPORTES",TDN Mexico
-http://carlosjerson.ml/4.php/http://31.220.40.116/LiveEdge/TDNMXLA/chunklist_w2047875368_b1000000.m3u8?securehash=c8zLd-bsN4J7heiSOdj1pwGqHr52OHVUZeoyM-pOlBI=&securestarttime=1462496921&secureendtime=1462504121&secureuserid=0996456d59626e7d3202c6b0e6372324
+http://stream.ssh101.com:1935/live/TuTVOP1/playlist.m3u8?
 #EXTINF:-1 tvg-id="TDN" tvg-name="TDN" tvg-logo="tdn-mx.png" group-title="DEPORTES",TDN Mexico 2
-http://50.30.46.181:8081/live/79/tdnn/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Planeta Futbol" tvg-name="Planeta Futbol" tvg-logo="http://vignette2.wikia.nocookie.net/liga-mx/images/c/c1/Planeta_Futbol_Logo.png/revision/latest?cb=20150512175207&path-prefix=es" group-title="DEPORTES",Planeta Futbol
 
 #EXTINF:-1 tvg-id="Univisión TDN" tvg-name="Univisión TDN" tvg-logo="http://wefixmx.com/cgi-bin/Logos/utdn.png" group-title="DEPORTES",Univision TDN
