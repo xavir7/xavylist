@@ -35,7 +35,7 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="Gala TV" tvg-name="Gala TV" tvg-logo="galatv.png" group-title="LOCALES",Gala TV 2
 rtmp://187.188.159.113/live/web.sdp
 #EXTINF:-1 tvg-id="Gala TV" tvg-name="Gala TV" tvg-logo="galatv.png" group-title="LOCALES",Gala TV 3
-http://104.236.61.232:8081/live/sky69/GalaVTcsp/playlist.m3u8
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="Once TV" tvg-name="Once TV" tvg-logo="once-tv.png" group-title="LOCALES",Once TV
 http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="El Trece" tvg-logo="el-trece.png" group-title="LOCALES",El Trece
