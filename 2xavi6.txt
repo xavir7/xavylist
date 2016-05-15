@@ -13,29 +13,29 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
 #EXTINF:-1 tvg-name="Canal 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_el_canal_de_las_estrellas.png" group-title="LOCALES",Canal de las Estrellas
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
 #EXTINF:-1 tvg-id="Canal 2 HD" tvg-name="Canal 2 HD" tvg-logo="canal-2-HD.png" group-title="LOCALES",Canal de las Estrellas HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE05.m3u8
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE05.m3u8?supertvlat=%2F.ts
 #EXTINF:-1 tvg-id="Canal 2 -2 horas" tvg-name="Canal 2 -2 horas" tvg-logo="http://imagenes.gatotv.com/logos/canales/de_las_estrellas_-2h_mexico-mediano.png" group-title="LOCALES",Canal de las Estrellas -2hr
 http://104.236.46.32:8081/live/sky83/Estrellas-2/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 5" tvg-logo="canal-5-HD.png" group-title="LOCALES",Canal 5
 http://45.55.143.151:8081/live/sky96/Canal5/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 5 HD" tvg-logo="canal-5-HD.png" group-title="LOCALES",Canal 5 HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE05.m3u8
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE05.m3u8?supertvlat=%2F.ts
 #EXTINF:-1 tvg-id="Foro TV" tvg-name="Foro TV" group-title="LOCALES" tvg-logo="foro-tv-HD.png",Foro TV
 https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMTYzJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj16cHVrcHloZXhvaGR3N3AmbGFuPTI=&f=.m3u8
 #EXTINF:-1 tvg-id="Azteca 7" tvg-name="Azteca 7" group-title="LOCALES" tvg-logo="AZ24HD.png",Azteca 7
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMjAzJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj16cHVrcHloZXhvaGR3N3AmbGFuPTI=&f=.m3u8
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL107/PROFILE03.m3u8?supertvlat=%2F.ts
 #EXTINF:-1 tvg-id="Azteca 7" tvg-name="Azteca 7" group-title="LOCALES" tvg-logo="AZ24HD.png",Azteca 7 HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL107/PROFILE05.m3u8
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE05.m3u8?supertvlat=%2F.ts
 #EXTINF:-1 tvg-name="Azteca 7 MTY" group-title="LOCALES" tvg-logo="http://wefixmx.com/cgi-bin/Logos/azteca7.png",Azteca 7 MTY
 http://38.104.228.230:1938/info7/info7_768/playlist.m3u8
 #EXTINF:-1 tvg-id="Gala TV" tvg-name="Gala TV" tvg-logo="galatv.png" group-title="LOCALES",Gala TV
 http://104.236.61.232:8081/live/sky69/GalaVTcsp/playlist.m3u8
 #EXTINF:-1 tvg-id="Gala TV" tvg-name="Gala TV" tvg-logo="galatv.png" group-title="LOCALES",Gala TV HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE05.m3u8
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE05.m3u8?supertvlat=%2F.ts
 #EXTINF:-1 tvg-id="Gala TV" tvg-name="Gala TV" tvg-logo="galatv.png" group-title="LOCALES",Gala TV 2
 rtmp://187.188.159.113/live/web.sdp
 #EXTINF:-1 tvg-id="Gala TV" tvg-name="Gala TV" tvg-logo="galatv.png" group-title="LOCALES",Gala TV 3
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE03.m3u8
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE03.m3u8?supertvlat=%2F.ts
 #EXTINF:-1 tvg-id="Once TV" tvg-name="Once TV" tvg-logo="once-tv.png" group-title="LOCALES",Once TV
 http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="El Trece" tvg-logo="el-trece.png" group-title="LOCALES",El Trece
@@ -270,7 +270,7 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL481/PROFILE03.m3u8
 #EXTINF:-1 tvg-name="AMC" group-title="CINEMA" tvg-logo="http://wefixmx.com/cgi-bin/Logos/amc.png",AMC
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL490/PROFILE03.m3u8
 #EXTINF:-1 tvg-name="AMC HD" group-title="CINEMA" tvg-logo="http://wefixmx.com/cgi-bin/Logos/amchd.png”,AMC HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL444/PROFILE05.m3u8
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL444/PROFILE05.m3u8?supertvlat=%2F.ts
 #EXTINF:-1 tvg-id="Space" tvg-name="Space" group-title="CINEMA" tvg-logo="space.png",Space
 http://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjMxJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj16cHVrcHloZXhvaGR3N3AmbGFuPTI=&f=.m3u8
 #EXTINF:-1 tvg-id="Space HD" tvg-name="Space HD" group-title="CINEMA" tvg-logo="space-hd.png",Space HD
@@ -338,7 +338,7 @@ http://play.uktvnow.net:1935/live/skynews.stream/playlist.m3u8?wmsAuthSign=c2Vyd
 #EXTINF:-1 tvg-name="Total Play" tvg-logo="http://wefixmx.com/cgi-bin/Logos/PREMIUM.png" group-title="ETIQUETAS",              [COLOR gold][B]== PREMIUM ==[/B][/COLOR]
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-id="Golden Premier" tvg-name="Golden Premier" group-title="PREMIUM" tvg-logo="http://www.gigacable.com.mx/images/logos/premier.png",Golden Premier
-http://carlosjerson.ml/8.php/http://31.220.40.116/LiveEdge/GoldenPremier1LA/chunklist_w531994813_b1000000.m3u8?securehash=Erwl8aACtdBWQc4rGu27f-Q406vsxp2hNyqAQr9n1QI=&securestarttime=1462397204&secureendtime=1462404404&secureuserid=0996456d59626e7d3202c6b0e6372324
+http://168.235.64.190/two/kodi:10d81a6d227332fbc7f02f2639909ed0a817217c/4777/playlist.m3u8
 #EXTINF:-1 tvg-id="Golden Premier 2" tvg-name="Golden Premier 2" tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/golden_premier_2-mediano.png" group-title="PREMIUM",Golden Premier 2
 http://107.170.187.68:8081/live/sky68/G0ldenpreMIERE2csp/playlist.m3u8
 #EXTINF:-1 tvg-id="Fox 1 HD" tvg-name="Fox 1 HD" tvg-logo="fox-1-hd.png" group-title="PREMIUM",Fox 1 HD
@@ -370,13 +370,13 @@ http://carlosjerson.ml/4.php/http://31.220.40.116/LiveEdge/HBOPus2LASD/chunklist
 #EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="http://wefixmx.com/cgi-bin/Logos/hbo-signature.png" group-title="PREMIUM",HBO Signature
 
 #EXTINF:-1 tvg-name="Max UP" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/e/e6/Maxup.png/revision/latest?cb=20160224211516" group-title="PREMIUM",Max UP
-http://carlosjerson.ml/1.php/http://31.220.40.116/LiveEdge/MaxUPSD/chunklist_w541982724_b1000000.m3u8?securehash=6SxfNpqn1TfL9PMLlYGtBTkwlYKu1N-mciHLcgqUGb0=&securestarttime=1462497178&secureendtime=1462504378&secureuserid=0996456d59626e7d3202c6b0e6372324
+http://168.235.64.190/two/kodi:10d81a6d227332fbc7f02f2639909ed0a817217c/469/playlist.m3u8
 #EXTINF:-1 tvg-id="Max Prime (E)" tvg-name="Max Prime Este" tvg-logo="max-prime.png" group-title="PREMIUM",Max Prime Este
-http://carlosjerson.ml/1.php/http://31.220.40.116/LiveEdge/MaxPrime2LASD/media_w320365283_b1000000_1723.ts?securehash=U9xlrJRyxYaayjE6rvCOY3650fAm_2AtcA1unH86Ofc%3D&securestarttime=1462397146&secureendtime=1462404346&secureuserid=0996456d59626e7d3202c6b0e6372324
+
 #EXTINF:-1 tvg-id="Max Prime (W)" tvg-name="Max Prime Oeste" tvg-logo="max-prime.png" group-title="PREMIUM",Max Prime Oeste
-http://carlosjerson.ml/8.php/http://31.220.40.116/LiveEdge/MaxPrime2LASD/chunklist_w1500075296_b1000000.m3u8?securehash=Q9fWkfej24FtEla-_T7FC2245cjA7GYjGk5E4hQDUeE=&securestarttime=1462497208&secureendtime=1462504408&secureuserid=0996456d59626e7d3202c6b0e6372324
+http://168.235.64.190/two/kodi:10d81a6d227332fbc7f02f2639909ed0a817217c/379/playlist.m3u8
 #EXTINF:-1 tvg-id="MAX" tvg-name="MAX" tvg-logo="http://wefixmx.com/cgi-bin/Logos/Max_HD.png" group-title="PREMIUM",MAX
-http://carlosjerson.ml/7.php/http://31.220.40.116/LiveEdge/MAXLASD/chunklist_w896392943_b1000000.m3u8?securehash=CR2vqDJrlcPXIyID19C31dOJrd7oW_Mwq4Fh0jG9YIU=&securestarttime=1462497141&secureendtime=1462504341&secureuserid=0996456d59626e7d3202c6b0e6372324
+http://168.235.64.190/two/kodi:10d81a6d227332fbc7f02f2639909ed0a817217c/381/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal+ Estrenos" tvg-logo="http://web.telecable.es/documents/36258/140776/logocanal%2Bestrenos.png/31fed192-b686-4dc5-80da-9b95c811df05?t=1453198015207" group-title="PREMIUM",Canal+ Estrenos
 http://62.210.162.88:80/live/ES152/1258321032016/1721.ts
 #EXTINF:-1 tvg-name="Canal+ Series" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a9/Canal%2B_S%C3%A9ries_logo.png" group-title="PREMIUM",Canal+ Series
@@ -442,19 +442,19 @@ http://158.69.127.167:7676/hls/ESPN.m3u8
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" group-title="DEPORTES" tvg-logo="http://wefixmx.com/cgi-bin/Logos/espn-2.png",ESPN 2
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" group-title="DEPORTES" tvg-logo="http://wefixmx.com/cgi-bin/Logos/espn2hd.png",ESPN 2 HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE05.m3u8
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE05.m3u8?supertvlat=%2F.ts
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" group-title="DEPORTES" tvg-logo="http://tele-envivo.com/wp-content/uploads/2016/01/espn-2-mexico.png",ESPN 2 US
 
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" group-title="DEPORTES" tvg-logo="http://wefixmx.com/cgi-bin/Logos/espn-3.png",ESPN 3
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" group-title="DEPORTES" tvg-logo="http://wefixmx.com/cgi-bin/Logos/ESPN3HD.png",ESPN 3 HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE05.m3u8
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE05.m3u8?supertvlat=%2F.ts
 #EXTINF:-1 tvg-id="Fox Sports" tvg-name="Fox Sports" group-title="DEPORTES" tvg-logo="foxsport.png",Fox Sports
 http://104.236.46.32:8081/live/sky96/1Foxsports111/playlist.m3u8
 #EXTINF:-1 tvg-id="Fox Sports" tvg-name="Fox Sports" group-title="DEPORTES" tvg-logo="foxsport.png",Fox Sports
 http://premium-mxl-iptv.cf/one/kodi:1522499c912ce92b5649bdb07a943473747940a0/49/playlist.m3u8
 #EXTINF:-1 tvg-id="Fox Sports" tvg-name="Fox Sports" group-title="DEPORTES" tvg-logo="foxsport.png",Fox Sports HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE05.m3u8
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE05.m3u8?supertvlat=%2F.ts
 #EXTINF:-1 tvg-id="Fox Sports" tvg-name="Fox Sports" group-title="DEPORTES" tvg-logo="http://wefixmx.com/cgi-bin/Logos/fs1.png",Fox Sports US
 http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/index_2528_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="Fox Sports 2" tvg-name="Fox Sports 2" group-title="DEPORTES" tvg-logo="FoxSports2.png",Fox Sports 2
@@ -462,11 +462,11 @@ http://104.131.94.43:1382/live/97/foxspor2/playlist.m3u8
 #EXTINF:-1 tvg-id="Fox Sports 2" tvg-name="Fox Sports 2" group-title="DEPORTES" tvg-logo="FoxSports2.png",Fox Sports 2
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="Fox Sports 2" tvg-name="Fox Sports 2" group-title="DEPORTES" tvg-logo="FoxSports2.png",Fox Sports 2 HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE05.m3u8
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE05.m3u8?supertvlat=%2F.ts
 #EXTINF:-1 tvg-id="Fox Sports 3" tvg-name="Fox Sports 3” group-title="DEPORTES" tvg-logo="foxsports3.png",Fox Sports 3
 http://107.170.241.204:8081/live/74/fossportsss3/playlist.m3u8
 #EXTINF:-1 tvg-id="Fox Sports 3" tvg-name="Fox Sports 3” group-title="DEPORTES" tvg-logo="foxsports3.png",Fox Sports 3 HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE05.m3u8
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE05.m3u8?supertvlat=%2F.ts
 #EXTINF:-1 tvg-id="TDN" tvg-name="TDN" tvg-logo="tdn-mx.png" group-title="DEPORTES",TDN Mexico Rayados vs Tigres (Vuelta)
 http://209.126.124.25:8081/live/97/tdnn1/playlist.m3u8
 #EXTINF:-1 tvg-id="TDN" tvg-name="TDN" tvg-logo="tdn-mx.png" group-title="DEPORTES",TDN Mexico 2
