@@ -23,7 +23,7 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE05.m3u8?supertvlat=%2F.ts
 #EXTINF:-1 tvg-id="Foro TV" tvg-name="Foro TV" group-title="LOCALES" tvg-logo="foro-tv-HD.png",Foro TV
 https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMTYzJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj16cHVrcHloZXhvaGR3N3AmbGFuPTI=&f=.m3u8
 #EXTINF:-1 tvg-id="Azteca 7" tvg-name="Azteca 7" group-title="LOCALES" tvg-logo="AZ24HD.png",Azteca 7
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL107/PROFILE03.m3u8?supertvlat=%2F.ts
+http://107.170.187.68:8081/live/sky74/Azteca7/playlist.m3u8
 #EXTINF:-1 tvg-id="Azteca 7" tvg-name="Azteca 7" group-title="LOCALES" tvg-logo="AZ24HD.png",Azteca 7 HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL107/PROFILE05.m3u8?supertvlat=%2F.ts
 #EXTINF:-1 tvg-name="Azteca 7 MTY" group-title="LOCALES" tvg-logo="http://wefixmx.com/cgi-bin/Logos/azteca7.png",Azteca 7 MTY
@@ -268,7 +268,7 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL430/PROFILE05.m3u8
 #EXTINF:-1 tvg-name="Cinemax" group-title="CINEMA" tvg-logo="http://4.bp.blogspot.com/-gxLdIo1BywI/Vg4MpELHCRI/AAAAAAAAAJI/2iRn0q9cgTQ/s1600/cinemax.png",Cinemax
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL481/PROFILE03.m3u8
 #EXTINF:-1 tvg-name="AMC" group-title="CINEMA" tvg-logo="http://wefixmx.com/cgi-bin/Logos/amc.png",AMC
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL490/PROFILE03.m3u8
+http://168.235.64.190/one/kodi:10d81a6d227332fbc7f02f2639909ed0a817217c/2/playlist.m3u8
 #EXTINF:-1 tvg-name="AMC HD" group-title="CINEMA" tvg-logo="http://wefixmx.com/cgi-bin/Logos/amchd.png”,AMC HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL444/PROFILE05.m3u8?supertvlat=%2F.ts
 #EXTINF:-1 tvg-id="Space" tvg-name="Space" group-title="CINEMA" tvg-logo="space.png",Space
