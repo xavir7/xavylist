@@ -10,19 +10,19 @@ http://
 http://209.126.124.25:8081/live/stalkviejo/localView2csp/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 2 MX" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/b/b5/160px-Canal_de_las_Estrellas_logo.svg.png/revision/latest?cb=20140201032504" group-title="LOCALES",Canal de las Estrellas MX
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
-#EXTINF:-1 tvg-id="Canal 2" tvg-name="Canal 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_el_canal_de_las_estrellas.png" group-title="LOCALES",Canal de las Estrellas
+#EXTINF:-1 tvg-id="Canal 2 HD" tvg-name="Canal 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_el_canal_de_las_estrellas.png" group-title="LOCALES",Canal de las Estrellas
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
 #EXTINF:-1 tvg-id="Canal 2 HD" tvg-name="Canal 2 HD" tvg-logo="canal-2-HD.png" group-title="LOCALES",Canal de las Estrellas HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE05.m3u8?supertvlat=%2F.ts
 #EXTINF:-1 tvg-id="Canal 2 -2 horas" tvg-name="Canal 2 -2 horas" tvg-logo="http://imagenes.gatotv.com/logos/canales/de_las_estrellas_-2h_mexico-mediano.png" group-title="LOCALES",Canal de las Estrellas -2hr
 http://104.236.46.32:8081/live/sky96/azteca13-2/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal 5" tvg-logo="canal-5-HD.png" group-title="LOCALES",Canal 5
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE03.m3u8
+#EXTINF:-1 tvg-name="Canal 5 HD" tvg-logo="canal-5-HD.png" group-title="LOCALES",Canal 5
+http://45.55.143.151:8081/live/sky96/Canal5/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 5 HD" tvg-logo="canal-5-HD.png" group-title="LOCALES",Canal 5 HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE05.m3u8?supertvlat=%2F.ts
 #EXTINF:-1 tvg-id="Foro TV" tvg-name="Foro TV" group-title="LOCALES" tvg-logo="foro-tv-HD.png",Foro TV
 https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMTYzJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj16cHVrcHloZXhvaGR3N3AmbGFuPTI=&f=.m3u8
-#EXTINF:-1 tvg-id="Azteca 7" tvg-name="Azteca 7" group-title="LOCALES" tvg-logo="AZ24HD.png",Azteca 7
+#EXTINF:-1 tvg-id="Azteca 7 HD" tvg-name="Azteca 7" group-title="LOCALES" tvg-logo="AZ24HD.png",Azteca 7
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL107/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="Azteca 7" tvg-name="Azteca 7" group-title="LOCALES" tvg-logo="AZ24HD.png",Azteca 7 HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL107/PROFILE05.m3u8?supertvlat=%2F.ts
@@ -382,49 +382,49 @@ http://168.235.64.190/two/kodi:10d81a6d227332fbc7f02f2639909ed0a817217c/379/play
 #EXTINF:-1 tvg-id="MAX" tvg-name="MAX" tvg-logo="http://wefixmx.com/cgi-bin/Logos/Max_HD.png" group-title="PREMIUM",MAX
 http://168.235.64.190/two/kodi:10d81a6d227332fbc7f02f2639909ed0a817217c/381/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal+ Estrenos" tvg-logo="http://web.telecable.es/documents/36258/140776/logocanal%2Bestrenos.png/31fed192-b686-4dc5-80da-9b95c811df05?t=1453198015207" group-title="PREMIUM",Canal+ Estrenos
-
+http://worldcs.info:8080/live/KLo0bIoHjU/TDdBPz25mX/9.m3u8
 #EXTINF:-1 tvg-name="Canal+ Series" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a9/Canal%2B_S%C3%A9ries_logo.png" group-title="PREMIUM",Canal+ Series
-
+http://worldcs.info:8080/live/KLo0bIoHjU/TDdBPz25mX/13.m3u8
 #EXTINF:-1 tvg-name="Canal+ Acción" tvg-logo="http://4.bp.blogspot.com/-2KJFeZRllBY/VmbtCTeCYuI/AAAAAAAAHtM/vIxrmp3Pa0E/s1600/Canal%252B_Acci%25C3%25B3n.png" group-title="PREMIUM",Canal+ Accion
-
+http://worldcs.info:8080/live/KLo0bIoHjU/TDdBPz25mX/5.m3u8
 #EXTINF:-1 tvg-name="Canal+ Comedia" tvg-logo="http://wefixmx.com/cgi-bin/Logos/canal+comedia.png" group-title="PREMIUM",Canal+ Comedia
-
+http://worldcs.info:8080/live/KLo0bIoHjU/TDdBPz25mX/6.m3u8
 #EXTINF:-1 tvg-name="Canal+ DCine" tvg-logo="http://wefixmx.com/cgi-bin/Logos/canal+DCine.png" group-title="PREMIUM",Canal+ DCine
-
+http://worldcs.info:8080/live/KLo0bIoHjU/TDdBPz25mX/25.m3u8
 #EXTINF:-1 tvg-name="CBS drama" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/b/b2/CBS_drama_RGB.png/revision/latest?cb=20091107144033" group-title="PREMIUM",CBS drama USA
 
 #EXTINF:-1 tvg-name="CBS action" tvg-logo="https://thetvwatchtower.files.wordpress.com/2013/04/cbs.png" group-title="PREMIUM",CBS USA
 http://play.uktvnow.net:1935/live/cbs90.stream/playlist.m3u8?wowzasessionid=1036709252&wmsAuthSign=c2VydmVyX3RpbWU9NS8xOC8yMDE2IDU6MTU6MzggQU0maGFzaF92YWx1ZT1pTTBXOXVaaHNrMlMxcDBKbVdxRHZBPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 tvg-name="CBS action" tvg-logo="https://thetvwatchtower.files.wordpress.com/2013/04/cbs.png" group-title="PREMIUM",CBS HD USA 
-http://play.uktvnow.net:1935/live/cbshd.stream/playlist.m3u8?wowzasessionid=2142099325&wmsAuthSign=c2VydmVyX3RpbWU9NS8xOC8yMDE2IDU6MTc6MjcgQU0maGFzaF92YWx1ZT0rNDJEd1pGZTh3dFpzdEdScjdkWnhnPT0mdmFsaWRtaW51dGVzPTIw
+
 #EXTINF:-1 tvg-name="CBS action" tvg-logo="https://thetvwatchtower.files.wordpress.com/2013/04/cbs.png" group-title="PREMIUM",CBS action USA
-http://play.uktvnow.net:1935/live/cbsaction.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOC8yMDE2IDM6MzI6NTkgQU0maGFzaF92YWx1ZT1YaFFFL0U2a1JrV0RUUmsvSU9MNWhBPT0mdmFsaWRtaW51dGVzPTIw
+
 #EXTINF:-1 tvg-name="CBS reality" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/CBS_Reality.png" group-title="PREMIUM",CBS reality USA
-http://play.uktvnow.net:1935/live/cbsreality.stream/playlist.m3u8?wowzasessionid=579329445&wmsAuthSign=c2VydmVyX3RpbWU9NS8xOC8yMDE2IDU6MTg6MDkgQU0maGFzaF92YWx1ZT1NV2t6NVdkVnBTdWJOTm1pNEpMRmJ3PT0mdmFsaWRtaW51dGVzPTIw
+
 #EXTINF:-1 tvg-name="USA" tvg-logo="http://culturesmash.tv/wp-content/uploads/2014/05/usa_network_logo-600x350.png" group-title="PREMIUM",USA
-http://play.uktvnow.net:1935/live/usa9.stream/playlist.m3u8?wowzasessionid=399983361&wmsAuthSign=c2VydmVyX3RpbWU9NS8xOC8yMDE2IDU6MTI6NDYgQU0maGFzaF92YWx1ZT1OQWRQMXJvbUxERUNPOEQ2aVNZdVNRPT0mdmFsaWRtaW51dGVzPTIw
+
 #EXTINF:-1 tvg-name="SKY Premiere" tvg-logo="http://vignette3.wikia.nocookie.net/qm-coorpration-channel/images/1/15/Showtime_5th_Logo.png/revision/latest?cb=20130915214351" group-title="PREMIUM",Showtime
 
 #EXTINF:-1 tvg-name="SKY Modern Greats" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/e/ef/Sky-Movies-HD-Modern-Greats.png/revision/latest?cb=20111119124728" group-title="PREMIUM",SKY 1 USA
-http://play.uktvnow.net:1935/live/sky10.stream/playlist.m3u8?wowzasessionid=1430336406&wmsAuthSign=c2VydmVyX3RpbWU9NS8xOC8yMDE2IDU6MjU6MzUgQU0maGFzaF92YWx1ZT1KSjF1VXpOd3VtZzhkeHRMTUdIcWVRPT0mdmFsaWRtaW51dGVzPTIw
+
 #EXTINF:-1 tvg-name="SKY Modern Greats" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/e/ef/Sky-Movies-HD-Modern-Greats.png/revision/latest?cb=20111119124728" group-title="PREMIUM",SKY 2 USA
-http://play.uktvnow.net:1935/live/sky2.stream/playlist.m3u8?wowzasessionid=200934279&wmsAuthSign=c2VydmVyX3RpbWU9NS8xOC8yMDE2IDU6MjU6NTQgQU0maGFzaF92YWx1ZT1DTUp1bThBQ2FTSm95Q2xudjZEdXJnPT0mdmFsaWRtaW51dGVzPTIw
+
 #EXTINF:-1 tvg-name="Sky Movies Action" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/c3/Star_Gold_HD_2011.png/revision/latest?cb=20110929114319" group-title="PREMIUM", StarPlus
-http://play.uktvnow.net:1935/live/starplus.stream/playlist.m3u8?wowzasessionid=30507799&wmsAuthSign=c2VydmVyX3RpbWU9NS8xOC8yMDE2IDU6MTE6MzQgQU0maGFzaF92YWx1ZT1nTnpseDVOOUgrVGg2SHE4Q3RvODlnPT0mdmFsaWRtaW51dGVzPTIw
+
 #EXTINF:-1 tvg-name="Sky Movies Action" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/c3/Star_Gold_HD_2011.png/revision/latest?cb=20110929114319" group-title="PREMIUM", StarGOLD
-http://play.uktvnow.net:1935/live/stargold7.stream/playlist.m3u8?wowzasessionid=131566606&wmsAuthSign=c2VydmVyX3RpbWU9NS8xOC8yMDE2IDU6MzM6MjQgQU0maGFzaF92YWx1ZT0yUUtDSUNla2swZ3RuYzFmNENGTHdBPT0mdmFsaWRtaW51dGVzPTIw
+
 #EXTINF:-1 tvg-name="SKY Modern Greats" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/e/ef/Sky-Movies-HD-Modern-Greats.png/revision/latest?cb=20111119124728" group-title="PREMIUM",SKY Modern Greats (Test)
-http://play.uktvnow.net:1935/live/mgreats.stream/playlist.m3u8?wowzasessionid=1916134309&wmsAuthSign=c2VydmVyX3RpbWU9NS8xOC8yMDE2IDU6Mjk6MzQgQU0maGFzaF92YWx1ZT03Mlk3akFjbThIWTlCaGFGUU8zZ1ZnPT0mdmFsaWRtaW51dGVzPTIw
+
 #EXTINF:-1 tvg-name="SKY Disney" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/channel-logo-sky-movies-disney.png" group-title="PREMIUM",SKY Disney (Test)
 http://play.uktvnow.net:1935/live/mdisney.stream/playlist.m3u8?wowzasessionid=611178337&wmsAuthSign=c2VydmVyX3RpbWU9NS8xOC8yMDE2IDU6Mjc6MDIgQU0maGFzaF92YWx1ZT1Eb3g2Ry9GZ01qZktremxlaUQ2N0VBPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 tvg-name="SKY Family" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/24/Sky-Movies-HD-Family.png/revision/latest?cb=20111119124035" group-title="PREMIUM",SKY Family (Test)
 
 #EXTINF:-1 tvg-name="SKY Comedy" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/c6/Sky-Movies-Comedy.png/revision/latest?cb=20111118185407" group-title="PREMIUM",SKY Comedy (Test)
-http://play.uktvnow.net:1935/live/mcomedy.stream/playlist.m3u8?wowzasessionid=557803324&wmsAuthSign=c2VydmVyX3RpbWU9NS8xOC8yMDE2IDU6MjY6MzkgQU0maGFzaF92YWx1ZT03NE9LSmRkbG44ZUpmNmZoOWR3STJBPT0mdmFsaWRtaW51dGVzPTIw
+
 #EXTINF:-1 tvg-name="SKY Crime & Thriller" tvg-logo="skymoviecrime.png" group-title="PREMIUM",SKY Crime & Thriller (Test)
 
 #EXTINF:-1 tvg-name="SKY Movies Drama" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/4/46/Sky-Movies-DramaRomance.png/revision/latest?cb=20111118190215" group-title="PREMIUM",SKY Movies Drama (Test)
-http://play.uktvnow.net:1935/live/mdrama.stream/playlist.m3u8?wowzasessionid=1230578916&wmsAuthSign=c2VydmVyX3RpbWU9NS8xOC8yMDE2IDU6Mjg6NTkgQU0maGFzaF92YWx1ZT12eUFxKzJyd0V0V3ZmVzVQVE54S0ZBPT0mdmFsaWRtaW51dGVzPTIw
+
 #EXTINF:-1 tvg-name="SKY Scifi & Horror" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/f/f4/Sky-Movies-Sci-Fi.png/revision/latest?cb=20111118191753" group-title="PREMIUM",SKY Scifi & Horror (Test)
 
 #EXTINF:-1 tvg-name="Sky Movies ShowCase" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/channel-logo-sky-movies-showcase.png" group-title="PREMIUM", Sky Movies ShowCase
@@ -434,7 +434,7 @@ http://play.uktvnow.net:1935/live/mdrama.stream/playlist.m3u8?wowzasessionid=123
 #EXTINF:-1 tvg-name="Sky Movies Modern HD" tvg-logo="http://www.shoofeetv.com/images/2013/09/20130902215948_channelsbig.png" group-title="PREMIUM",Sky Movies Modern HD (Test)
 
 #EXTINF:-1 tvg-name="Sky Movies Action & Adventure" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/0/07/Sky-Movies-ActionAdventure.png/revision/latest?cb=20111118190047" group-title="PREMIUM",Sky Movies Action & Adventure (Test)
-http://play.uktvnow.net:1935/live/maction.stream/playlist.m3u8?wowzasessionid=161638228&wmsAuthSign=c2VydmVyX3RpbWU9NS8xOC8yMDE2IDU6Mjg6MDggQU0maGFzaF92YWx1ZT1VajlTdFJWUjVVL1RkdXlVbEdCOUd3PT0mdmFsaWRtaW51dGVzPTIw
+
 
 
 #EXTINF:-1 tvg-name="Total Play" tvg-logo="http://wefixmx.com/cgi-bin/Logos/DEPORTES.png" group-title="ETIQUETAS",[COLOR yellow] ****DEPORTES****[/COLOR]
