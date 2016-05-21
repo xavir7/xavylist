@@ -485,17 +485,17 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE05.m3u8?supertvlat=%2F.ts
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL569/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="Fox Sports 3" tvg-name="Fox Sports 3” group-title="DEPORTES" tvg-logo="foxsports3.png",Fox Sports 3 HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1 tvg-id="TDN" tvg-name="TDN" tvg-logo="tdn-mx.png" group-title="DEPORTES",TDN Mexico
+#EXTINF:-1 tvg-id="TDN" tvg-name="TDN" tvg-logo="tdn-mx.png" group-title="DEPORTES",TDN Mexico [COLOR blue] Rayados[/COLOR] vs [COLOR yellow]America[/COLOR] Semifinal Vuelta
 http://209.126.124.25:8081/live/97/tdnn1/playlist.m3u8
 #EXTINF:-1 tvg-id="TDN" tvg-name="TDN" tvg-logo="tdn-mx.png" group-title="DEPORTES",TDN Mexico 2
 
-#EXTINF:-1 tvg-id="Planeta Futbol" tvg-name="Planeta Futbol" tvg-logo="http://vignette2.wikia.nocookie.net/liga-mx/images/c/c1/Planeta_Futbol_Logo.png/revision/latest?cb=20150512175207&path-prefix=es" group-title="DEPORTES",Planta Futbol *SOLO EVENTOS*
+#EXTINF:-1 tvg-id="Planeta Futbol" tvg-name="Planeta Futbol" tvg-logo="http://vignette2.wikia.nocookie.net/liga-mx/images/c/c1/Planeta_Futbol_Logo.png/revision/latest?cb=20150512175207&path-prefix=es" group-title="DEPORTES",Planta Futbol [COLOR blue] Rayados[/COLOR] vs [COLOR yellow]America[/COLOR] Semifinal Vuelta
 http://104.236.80.130:8081/live/77/Planetafutbol886/playlist.m3u8
 #EXTINF:-1 tvg-id="Univisión TDN" tvg-name="Univisión TDN" tvg-logo="http://wefixmx.com/cgi-bin/Logos/utdn.png" group-title="DEPORTES",Univision TDN
 
 #EXTINF:-1 tvg-id="Univisión TDN" tvg-name="Univisión TDN" tvg-logo="http://wefixmx.com/cgi-bin/Logos/utdn.png" group-title="DEPORTES",Univision TDN
 http://104.236.61.232:8081/live/sky69/Un1v15ionTDnnNcsp111/playlist.m3u8
-#EXTINF:-1 tvg-id="Univisión TDN USA" tvg-name="Univisión TDN USA" tvg-logo="http://vignette2.wikia.nocookie.net/primeradivisiondemexico/images/5/5c/Univision_tdn.png/revision/latest?cb=20130930004516&path-prefix=es" group-title="DEPORTES",Univision TDN USA
+#EXTINF:-1 tvg-id="Univisión TDN USA" tvg-name="Univisión TDN USA" tvg-logo="http://vignette2.wikia.nocookie.net/primeradivisiondemexico/images/5/5c/Univision_tdn.png/revision/latest?cb=20130930004516&path-prefix=es" group-title="DEPORTES",Univision TDN USA [COLOR blue] Rayados[/COLOR] vs [COLOR yellow]America[/COLOR] Semifinal Vuelta
 http://stream.ssh101.com:1935/live/deporteshd/chunklist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports" tvg-logo="http://wefixmx.com/cgi-bin/Logos/pokercentral.png" group-title="DEPORTES",Poker Central
 http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
