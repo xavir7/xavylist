@@ -40,6 +40,8 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE03.m3u8?supertvlat=%2F.ts
 http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="El Trece" tvg-logo="el-trece.png" group-title="LOCALES",El Trece
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
+#EXTINF:-1 tvg-name="El Trece" tvg-logo="el-trece.png" group-title="LOCALES",El Trece HD
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
 #EXTINF:-1 tvg-name="El Trece -1hr" tvg-logo="http://wefixmx.com/cgi-bin/Logos/eltrece-1.png" group-title="LOCALES",El Trece -1hr
 http://104.236.46.32:8081/live/sky96/azteca13-1/playlist.m3u8
 #EXTINF:-1 tvg-name="El Trece -2hr" tvg-logo="http://wefixmx.com/cgi-bin/Logos/eltrece-2.png" group-title="LOCALES",El Trece -2hr
@@ -328,7 +330,7 @@ http://cp.dmbshare.net:8000/live/cengiz/cengiz/3476.m3u8
 #EXTINF:-1 tvg-name="CNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/69/Cnbc.png" group-title="NOTICIAS",CNBC USA
 http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947&iu=/8264/vaw-can/mobile_web/cbsnews_mobile
 #EXTINF:-1 tvg-name="The Weather Channel" tvg-logo="https://s.w-x.co/240x180_twc_default.png",The Weather Channel
-
+http://kalsegsec-a.akamaihd.net/dc-0/m/pa-live-publish6/kLive/smil:1_oorxcge2_publish.smil/chunklist_b2096000.m3u8
 #EXTINF:-1 tvg-name="WeatherNation" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/WeatherNation_logo.png",WeatherNation
 http://kalsegsec-a.akamaihd.net/dc-1/m/ny-live-publish1/kLive/smil:1_oorxcge2_publish.smil/chunklist_b2096000.m3u8
 #EXTINF:-1 tvg-name="Bloomberg" tvg-logo="http://www.userlogos.org/files/logos/x9bgood/bloomberg.png" group-title="NOTICIAS",Bloomberg
@@ -386,15 +388,15 @@ http://209.126.124.25:8081/live/sky79/652-HBOFamilycsp/playlist.m3u8
 #EXTINF:-1 tvg-id="MAX" tvg-name="MAX" tvg-logo="http://wefixmx.com/cgi-bin/Logos/Max_HD.png" group-title="PREMIUM",MAX
 
 #EXTINF:-1 tvg-name="Canal+ Estrenos" tvg-logo="http://web.telecable.es/documents/36258/140776/logocanal%2Bestrenos.png/31fed192-b686-4dc5-80da-9b95c811df05?t=1453198015207" group-title="PREMIUM",Canal+ Estrenos
-http://worldcs.info:8080/live/ZX1lBACxzx/19lYOHxHT9/9.m3u8
+
 #EXTINF:-1 tvg-name="Canal+ Series" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a9/Canal%2B_S%C3%A9ries_logo.png" group-title="PREMIUM",Canal+ Series
-http://worldcs.info:8080/live/ZX1lBACxzx/19lYOHxHT9/13.m3u8
+
 #EXTINF:-1 tvg-name="Canal+ Acción" tvg-logo="http://4.bp.blogspot.com/-2KJFeZRllBY/VmbtCTeCYuI/AAAAAAAAHtM/vIxrmp3Pa0E/s1600/Canal%252B_Acci%25C3%25B3n.png" group-title="PREMIUM",Canal+ Accion
-http://worldcs.info:8080/live/ZX1lBACxzx/19lYOHxHT9/5.m3u8
+
 #EXTINF:-1 tvg-name="Canal+ Comedia" tvg-logo="http://wefixmx.com/cgi-bin/Logos/canal+comedia.png" group-title="PREMIUM",Canal+ Comedia
-http://worldcs.info:8080/live/ZX1lBACxzx/19lYOHxHT9/6.m3u8
+
 #EXTINF:-1 tvg-name="Canal+ DCine" tvg-logo="http://wefixmx.com/cgi-bin/Logos/canal+DCine.png" group-title="PREMIUM",Canal+ DCine
-http://worldcs.info:8080/live/ZX1lBACxzx/19lYOHxHT9/25.m3u8
+
 #EXTINF:-1 tvg-name="CBS drama" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/b/b2/CBS_drama_RGB.png/revision/latest?cb=20091107144033" group-title="PREMIUM",CBS drama USA
 
 #EXTINF:-1 tvg-name="CBS action" tvg-logo="https://thetvwatchtower.files.wordpress.com/2013/04/cbs.png" group-title="PREMIUM",CBS USA
@@ -448,7 +450,7 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE03.m3u8
 #EXTINF:-1 tvg-name="ESPN+" tvg-logo="http://wefixmx.com/cgi-bin/Logos/espn+.png" group-title="DEPORTES",ESPN+ HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="http://wefixmx.com/cgi-bin/Logos/espn.png" group-title="DEPORTES",ESPN
-
+http://latino-webtv.ml:88/live/516_03.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="http://wefixmx.com/cgi-bin/Logos/espn.png" group-title="DEPORTES",ESPN
 
 #EXTINF:-1 tvg-id="ESPN US" tvg-name="ESPN US" tvg-logo="http://static1.squarespace.com/static/5654ba34e4b085d161b0ec37/5654f8f8e4b0a63eb2a76ad2/56b510679f7266a9d9f3e261/1454706791741/20080617134152!Logo_ESPN.png" group-title="DEPORTES",ESPN US
@@ -489,7 +491,7 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE05.m3u8?supertvlat=%2F.ts
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL569/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="Fox Sports 3" tvg-name="Fox Sports 3” group-title="DEPORTES" tvg-logo="foxsports3.png",Fox Sports 3 HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1 tvg-id="TDN" tvg-name="TDN" tvg-logo="tdn-mx.png" group-title="DEPORTES",TDN Mexico
+#EXTINF:-1 tvg-id="TDN" tvg-name="TDN" tvg-logo="tdn-mx.png" group-title="DEPORTES",GRAN FINAL PA[COLOR blue]CHU[/COLOR]CA vs [COLOR blue]RA[/COLOR]YAD[COLOR blue]OS[/COLOR]
 http://209.126.124.25:8081/live/97/tdnn1/playlist.m3u8
 #EXTINF:-1 tvg-id="TDN" tvg-name="TDN" tvg-logo="tdn-mx.png" group-title="DEPORTES",TDN Mexico 2
 
@@ -499,10 +501,12 @@ http://104.236.80.130:8081/live/77/Planetafutbol886/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Univisión TDN" tvg-name="Univisión TDN" tvg-logo="http://wefixmx.com/cgi-bin/Logos/utdn.png" group-title="DEPORTES",Univision TDN
 http://104.236.61.232:8081/live/sky69/Un1v15ionTDnnNcsp111/playlist.m3u8
-#EXTINF:-1 tvg-id="Univisión TDN USA" tvg-name="Univisión TDN USA" tvg-logo="http://vignette2.wikia.nocookie.net/primeradivisiondemexico/images/5/5c/Univision_tdn.png/revision/latest?cb=20130930004516&path-prefix=es" group-title="DEPORTES",Univision TDN USA
+#EXTINF:-1 tvg-id="Univisión TDN USA" tvg-name="Univisión TDN USA" tvg-logo="http://vignette2.wikia.nocookie.net/primeradivisiondemexico/images/5/5c/Univision_tdn.png/revision/latest?cb=20130930004516&path-prefix=es" group-title="DEPORTES",GRAN FINAL PA[COLOR blue]CHU[/COLOR]CA vs [COLOR blue]RA[/COLOR]YAD[COLOR blue]OS[/COLOR]
 http://stream.ssh101.com:1935/live/deporteshd12/chunklist.m3u8
-#EXTINF:-1 tvg-id="Univisión TDN USA" tvg-name="Univisión TDN USA" tvg-logo="http://vignette2.wikia.nocookie.net/primeradivisiondemexico/images/5/5c/Univision_tdn.png/revision/latest?cb=20130930004516&path-prefix=es" group-title="DEPORTES",Univision TDN USA 2
+#EXTINF:-1 tvg-id="Univisión TDN USA" tvg-name="Univisión TDN USA" tvg-logo="http://vignette2.wikia.nocookie.net/primeradivisiondemexico/images/5/5c/Univision_tdn.png/revision/latest?cb=20130930004516&path-prefix=es" group-title="DEPORTES",GRAN FINAL PA[COLOR blue]CHU[/COLOR]CA vs [COLOR blue]RA[/COLOR]YAD[COLOR blue]OS[/COLOR]
 http://52.37.237.165:8000/live/cloudtv/cloudtv/11.m3u8
+#EXTINF:-1 tvg-id="DirecTV" tvg-name="DirecTV" tvg-logo="http://wefixmx.com/cgi-bin/Logos/directv.png" group-title="DEPORTES",DirecTV
+http://latino-webtv.ml:88/live/directv.m3u8
 #EXTINF:-1 tvg-name="Bein Sports" tvg-logo="http://wefixmx.com/cgi-bin/Logos/pokercentral.png" group-title="DEPORTES",Poker Central
 http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
 #EXTINF:-1 tvg-name="TVC Deportes" tvg-logo="http://www.miralotv.org/images/tvcdeportes.png" group-title="DEPORTES”,TVC Deportes *(Prueba)*
@@ -562,11 +566,11 @@ http://worldcs.info:8080/live/ZX1lBACxzx/19lYOHxHT9/10.m3u8
 #EXTINF:-1 tvg-name="Canal+ Futbol 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Canal%2B_F%C3%BAtbol_2008.svg/200px-Canal%2B_F%C3%BAtbol_2008.svg.png" group-title="DEPORTES",Canal+ Futbol 2
 
 #EXTINF:-1 tvg-name="Canal+ Liga HD" tvg-logo="http://images.wikia.com/tvkanal/da/images/f/f5/Canal%2B_Liga.png" group-title="DEPORTES",Canal+ Liga
-http://worldcs.info:8080/live/ZX1lBACxzx/19lYOHxHT9/12.m3u8
+http://latino-webtv.ml:88/live/14_03.m3u8
 #EXTINF:-1 tvg-name="Canal+ Liga HD" tvg-logo="http://www.adslzone.tv/app/uploads/2010/09/canalplus_liga_hd.png" group-title="DEPORTES",Canal+ Liga HD
 
 #EXTINF:-1 tvg-name="TV Toros" tvg-logo="http://3.bp.blogspot.com/-5l1qSHi7_BA/UeT7MKVn3aI/AAAAAAAABC8/Jk6s1cdRSks/s1600/canal-toros.png" group-title="DEPORTES",Canal+ Toros
-http://worldcs.info:8080/live/ZX1lBACxzx/19lYOHxHT9/15.m3u8
+
 #EXTINF:-1 tvg-name="Sky Sports 1" group-title="DEPORTES" tvg-logo="http://www.skysports.com/core/img/channels/Sky-Sports-Logo.png",Sky Sports
 
 #EXTINF:-1 tvg-name="Sky Sports 1" group-title="DEPORTES" tvg-logo="http://www.skysports.com/core/img/channels/Sky-Sports-Logo.png",Sky Sports
