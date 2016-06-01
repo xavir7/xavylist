@@ -16,7 +16,7 @@ http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE05.m3u8?supertvlat=%2F.ts
 #EXTINF:-1 tvg-id="Canal 2 -2 horas" tvg-name="Canal 2 -2 horas" tvg-logo="http://imagenes.gatotv.com/logos/canales/de_las_estrellas_-2h_mexico-mediano.png" group-title="LOCALES",Canal de las Estrellas -2hr
 http://104.236.46.32:8081/live/sky96/azteca13-2/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal 5 HD" tvg-name="Canal 5 HD" tvg-logo="http://wefixmx.com/cgi-bin/Logos/canal-5-HD.pngg" group-title="LOCALES",Canal 5
+#EXTINF:-1 tvg-id="Canal 5 HD" tvg-name="Canal 5 HD" tvg-logo="http://wefixmx.com/cgi-bin/Logos/canal-5-HD.png" group-title="LOCALES",Canal 5
 http://45.55.143.151:8081/live/sky96/Canal5/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 5 HD" tvg-logo="canal-5-HD.png" group-title="LOCALES",Canal 5 HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE05.m3u8?supertvlat=%2F.ts
@@ -103,7 +103,7 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="Fox" tvg-name="FOX HD" group-title="ENTRETENIMIENTO" tvg-logo="foxhd.png",FOX HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="Sony" tvg-name="Sony HD" group-title="ENTRETENIMIENTO" tvg-logo="sony.png",Sony
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL203/PROFILE03.m3u8
+http://107.170.241.204:8081/live/74/sony/playlist.m3u8
 #EXTINF:-1 tvg-id="Sony HD" tvg-name="Sony HD" group-title="ENTRETENIMIENTO" tvg-logo="sony.png",Sony HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL203/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="Unicable" tvg-name="Unicable" group-title="ENTRETENIMIENTO" tvg-logo="http://wefixmx.com/cgi-bin/Logos/unicable.png",Unicable
@@ -123,7 +123,7 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL256/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="Universal Channel HD" tvg-name="Universal Channel HD" group-title="ENTRETENIMIENTO" tvg-logo="http://wefixmx.com/cgi-bin/Logos/universal-channelHD.png",Universal Channel HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL207/PROFILE05.m3u8
 #EXTINF:-1 tvg-name="A&amp;E" group-title="ENTRETENIMIENTO" tvg-logo="a&e.png",A&E
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL259/PROFILE03.m3u8
+http://104.131.94.43:1382/live/sky97/AE/playlist.m3u8
 #EXTINF:-1 tvg-name="AXN HD" group-title="ENTRETENIMIENTO" tvg-logo="axn-hd.png",AXN HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL213/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="Tlnovelas" tvg-name="Tlnovelas" tvg-logo="http://wefixmx.com/cgi-bin/Logos/tlnovelas.png" group-title="ENTRETENIMIENTO",Tlnovelas
@@ -132,18 +132,22 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL275/PROFILE03.m3u8
 http://168.235.64.190/one/kodi:10d81a6d227332fbc7f02f2639909ed0a817217c/81/playlist.m3u8
 #EXTINF:-1 tvg-name="El Gourmet" tvg-logo="el-gourmet.png" group-title="ENTRETENIMIENTO",El Gourmet
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL268/PROFILE03.m3u8
-#EXTINF:-1 tvg-id="Telemundo 39" tvg-name="Telemundo" tvg-logo="http://wefixmx.com/cgi-bin/Logos/telemundo39.png" group-title="ENTRETENIMIENTO",Telemundo 39
+#EXTINF:-1 tvg-id="Telemundo 39" tvg-name="Telemundo 39" tvg-logo="http://wefixmx.com/cgi-bin/Logos/telemundo.png" group-title="ENTRETENIMIENTO",Telemundo USA
 http://iphone-streaming.ustream.tv/uhls/22243668/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-id="Telemundo" tvg-name="Telemundo" tvg-logo="http://wefixmx.com/cgi-bin/Logos/Telemundo.png" group-title="ENTRETENIMIENTO",Telemundo
 http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
-#EXTINF:-1 tvg-id="Mundo Fox" tvg-name="Mundo Fox" tvg-logo="mundofox.png" group-title="ENTRETENIMIENTO",Mundo Fox
-
+#EXTINF:-1 tvg-id="Telemundo PR" tvg-name="Telemundo PR" tvg-logo="http://wefixmx.com/cgi-bin/Logos/telemundopr.png" group-title="ENTRETENIMIENTO",Telemundo PR
+http://146.185.130.83:8081/nimble-live/Telemundo_PR/playlist.m3u8
+#EXTINF:-1 tvg-id="Mundo Fox" tvg-name="Mundo Fox" tvg-logo="http://wefixmx.com/cgi-bin/Logos/mundofox.png" group-title="ENTRETENIMIENTO",Mundo Fox
+http://104.131.117.246:8081/chuy/76/088-MundoFox/playlist.m3u8
+#EXTINF:-1 tvg-id="Mundo Max" tvg-name="Mundo Max" tvg-logo="http://wefixmx.com/cgi-bin/Logos/mundomax.png" group-title="ENTRETENIMIENTO",Mundo Max
+http://104.131.111.63:8081/hls/wjpx/playlist.m3u8
 #EXTINF:-1 tvg-name="Univisión Network (East) (UNI)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Univision_2013_logo.png" group-title="ENTRETENIMIENTO",Univision
-http://stream.ssh101.com:1935/live/univision101/chunklist.m3u8??sd=10
-#EXTINF:-1 tvg-name="Univisión" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Univision_2013_logo.png" group-title="ENTRETENIMIENTO",Univision 2
-http://video06-atl.streamup.com/app/univision2chivas_69s-stream_aac/chunklist
+http://stream.ssh101.com:1935/live/univision101/chunklist.m3u8?sd=10
+#EXTINF:-1 tvg-name="Univisión" tvg-logo="http://wefixmx.com/cgi-bin/Logos/univisionpr.png" group-title="ENTRETENIMIENTO",Univision PR
+http://146.185.130.83:8081/nimble-live/Univision_PR/playlist.m3u8
 #EXTINF:-1 tvg-name="Univisión" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Univision_2013_logo.png" group-title="ENTRETENIMIENTO",Univision 3
-http://video07-lax.streamup.com/app/univision2chivas_69s-stream_aac/playlist
+http://video07-lax.streamup.com/app/univision2chivas_69s-stream_aac/playlist.m3u8
 #EXTINF:-1 tvg-name="Lifetime" group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Lifetime_logo_2013.png",Lifetime
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL379/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="Fox Life" tvg-name="Fox Life" group-title="ENTRETENIMIENTO" tvg-logo="fox-life.png",Fox Life
@@ -479,8 +483,8 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE03.m3u8
 
 #EXTINF:-1 tvg-id="Fox Sports" tvg-name="Fox Sports" group-title="DEPORTES" tvg-logo="foxsport.png",Fox Sports HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1 tvg-id="Fox Sports" tvg-name="Fox Sports" group-title="DEPORTES" tvg-logo="http://wefixmx.com/cgi-bin/Logos/fs1.png",Fox Sports US
-http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/index_2528_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="Fox Sports USA" tvg-name="Fox Sports" group-title="DEPORTES" tvg-logo="http://wefixmx.com/cgi-bin/Logos/fs1.png",Fox Sports USA
+http://162.248.6.122:8080/
 #EXTINF:-1 tvg-id="Fox Sports 2" tvg-name="Fox Sports 2" group-title="DEPORTES" tvg-logo="FoxSports2.png",Fox Sports 2
 
 #EXTINF:-1 tvg-id="Fox Sports 2" tvg-name="Fox Sports 2" group-title="DEPORTES" tvg-logo="FoxSports2.png",Fox Sports 2
@@ -491,19 +495,19 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE05.m3u8?supertvlat=%2F.ts
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL569/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="Fox Sports 3" tvg-name="Fox Sports 3” group-title="DEPORTES" tvg-logo="foxsports3.png",Fox Sports 3 HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1 tvg-id="TDN" tvg-name="TDN" tvg-logo="tdn-mx.png" group-title="DEPORTES",GRAN FINAL PA[COLOR blue]CHU[/COLOR]CA vs [COLOR blue]RA[/COLOR]YAD[COLOR blue]OS[/COLOR]
+#EXTINF:-1 tvg-id="TDN" tvg-name="TDN" tvg-logo="tdn-mx.png" group-title="DEPORTES",TDN Mexico
 http://209.126.124.25:8081/live/97/tdnn1/playlist.m3u8
 #EXTINF:-1 tvg-id="TDN" tvg-name="TDN" tvg-logo="tdn-mx.png" group-title="DEPORTES",TDN Mexico 2
 
-#EXTINF:-1 tvg-id="Planeta Futbol" tvg-name="Planeta Futbol" tvg-logo="http://vignette2.wikia.nocookie.net/liga-mx/images/c/c1/Planeta_Futbol_Logo.png/revision/latest?cb=20150512175207&path-prefix=es" group-title="DEPORTES",Planta Futbol
+#EXTINF:-1 tvg-id="Planeta Futbol" tvg-name="Planeta Futbol" tvg-logo="http://vignette2.wikia.nocookie.net/liga-mx/images/c/c1/Planeta_Futbol_Logo.png/revision/latest?cb=20150512175207&path-prefix=es" group-title="DEPORTES",Sky Sports
 http://104.236.80.130:8081/live/77/Planetafutbol886/playlist.m3u8
 #EXTINF:-1 tvg-id="Univisión TDN" tvg-name="Univisión TDN" tvg-logo="http://wefixmx.com/cgi-bin/Logos/utdn.png" group-title="DEPORTES",Univision TDN
 
 #EXTINF:-1 tvg-id="Univisión TDN" tvg-name="Univisión TDN" tvg-logo="http://wefixmx.com/cgi-bin/Logos/utdn.png" group-title="DEPORTES",Univision TDN
 http://104.236.61.232:8081/live/sky69/Un1v15ionTDnnNcsp111/playlist.m3u8
-#EXTINF:-1 tvg-id="Univisión TDN USA" tvg-name="Univisión TDN USA" tvg-logo="http://vignette2.wikia.nocookie.net/primeradivisiondemexico/images/5/5c/Univision_tdn.png/revision/latest?cb=20130930004516&path-prefix=es" group-title="DEPORTES",GRAN FINAL PA[COLOR blue]CHU[/COLOR]CA vs [COLOR blue]RA[/COLOR]YAD[COLOR blue]OS[/COLOR]
+#EXTINF:-1 tvg-id="Univisión TDN USA" tvg-name="Univisión TDN USA" tvg-logo="http://vignette2.wikia.nocookie.net/primeradivisiondemexico/images/5/5c/Univision_tdn.png/revision/latest?cb=20130930004516&path-prefix=es" group-title="DEPORTES",Univision TDN USA
 http://stream.ssh101.com:1935/live/deporteshd12/chunklist.m3u8
-#EXTINF:-1 tvg-id="Univisión TDN USA" tvg-name="Univisión TDN USA" tvg-logo="http://vignette2.wikia.nocookie.net/primeradivisiondemexico/images/5/5c/Univision_tdn.png/revision/latest?cb=20130930004516&path-prefix=es" group-title="DEPORTES",GRAN FINAL PA[COLOR blue]CHU[/COLOR]CA vs [COLOR blue]RA[/COLOR]YAD[COLOR blue]OS[/COLOR]
+#EXTINF:-1 tvg-id="Univisión TDN USA" tvg-name="Univisión TDN USA" tvg-logo="http://vignette2.wikia.nocookie.net/primeradivisiondemexico/images/5/5c/Univision_tdn.png/revision/latest?cb=20130930004516&path-prefix=es" group-title="DEPORTES",Univision TDN USA 2
 http://52.37.237.165:8000/live/cloudtv/cloudtv/11.m3u8
 #EXTINF:-1 tvg-id="DirecTV" tvg-name="DirecTV" tvg-logo="http://wefixmx.com/cgi-bin/Logos/directv.png" group-title="DEPORTES",DirecTV
 http://latino-webtv.ml:88/live/directv.m3u8
@@ -562,7 +566,7 @@ http://worldcs.info:8080/live/ZX1lBACxzx/19lYOHxHT9/419.m3u8
 #EXTINF:-1 tvg-name="Canal+ Deportes HD" tvg-logo="http://www.adslzone.tv/app/uploads/2010/09/canalplus_liga_hd.png" group-title="DEPORTES",Canal+ Deportes HD
 
 #EXTINF:-1 tvg-name="Canal+ Futbol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Canal%2B_F%C3%BAtbol_2008.svg/200px-Canal%2B_F%C3%BAtbol_2008.svg.png" group-title="DEPORTES",Canal+ Futbol
-http://worldcs.info:8080/live/ZX1lBACxzx/19lYOHxHT9/10.m3u8
+http://37.35.232.198:8001/1:0:1:778E:424:1:C00000:0:0:0:
 #EXTINF:-1 tvg-name="Canal+ Futbol 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Canal%2B_F%C3%BAtbol_2008.svg/200px-Canal%2B_F%C3%BAtbol_2008.svg.png" group-title="DEPORTES",Canal+ Futbol 2
 
 #EXTINF:-1 tvg-name="Canal+ Liga HD" tvg-logo="http://images.wikia.com/tvkanal/da/images/f/f5/Canal%2B_Liga.png" group-title="DEPORTES",Canal+ Liga
