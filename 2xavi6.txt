@@ -15,7 +15,7 @@ http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
 #EXTINF:-1 tvg-id="Canal 2 HD" tvg-name="Canal 2 HD" tvg-logo="canal-2-HD.png" group-title="LOCALES",Canal de las Estrellas HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE05.m3u8?supertvlat=%2F.ts
 #EXTINF:-1 tvg-id="Canal 2 -2 horas" tvg-name="Canal 2 -2 horas" tvg-logo="http://imagenes.gatotv.com/logos/canales/de_las_estrellas_-2h_mexico-mediano.png" group-title="LOCALES",Canal de las Estrellas -2hr
-http://104.236.46.32:8081/live/sky96/azteca13-2/playlist.m3u8
+http://104.236.46.32:8081/live/sky83/Estrellas-2/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal 5 HD" tvg-name="Canal 5 HD" tvg-logo="http://wefixmx.com/cgi-bin/Logos/canal-5-HD.png" group-title="LOCALES",Canal 5
 http://45.55.143.151:8081/live/sky96/Canal5/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 5 HD" tvg-logo="canal-5-HD.png" group-title="LOCALES",Canal 5 HD
@@ -345,6 +345,9 @@ http://btvuk-i.akamaihd.net/hls/live/203321/btvuk_ios/P1/M18K.m3u8
 http://btv-i.akamaihd.net/hls/live/202760/btvusa_ios/P1/M18K.m3u8
 #EXTINF:-1 tvg-name="Sky News" tvg-logo="http://news.sky.com/images/33dc2677.sky-news-logo.png" group-title="NOTICIAS",Sky News
 http://play.uktvnow.net:1935/live/skynews.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNC8yMDE2IDY6MzI6MjYgQU0maGFzaF92YWx1ZT1OQzJtWlJiREZ1bHUrQ1Axb2pKUkxnPT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1 tvg-name="CNBC" tvg-logo="http://wefixmx.com/cgi-bin/Logos/cnbc.png" group-title="NOTICIAS",CNBC
+http://play.uktvnow.net:1935/live/cnbc.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yLzIwMTYgNTozMDoxNiBBTSZoYXNoX3ZhbHVlPXh2aVNUTXdCaXdCOWhpS2l5cU5vMnc9PSZ2YWxpZG1pbnV0ZXM9MjA=
+
 
 
 #EXTINF:-1 tvg-name="Total Play" tvg-logo="http://wefixmx.com/cgi-bin/Logos/PREMIUM.png" group-title="ETIQUETAS",              [COLOR gold][B]== PREMIUM ==[/B][/COLOR]
@@ -403,22 +406,22 @@ http://209.126.124.25:8081/live/sky79/652-HBOFamilycsp/playlist.m3u8
 
 #EXTINF:-1 tvg-name="CBS drama" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/b/b2/CBS_drama_RGB.png/revision/latest?cb=20091107144033" group-title="PREMIUM",CBS drama USA
 
-#EXTINF:-1 tvg-name="CBS action" tvg-logo="https://thetvwatchtower.files.wordpress.com/2013/04/cbs.png" group-title="PREMIUM",CBS USA
+#EXTINF:-1 tvg-name="CBS" tvg-logo="http://wefixmx.com/cgi-bin/Logos/cbs.png" group-title="PREMIUM",CBS USA
 
-#EXTINF:-1 tvg-name="CBS action" tvg-logo="https://thetvwatchtower.files.wordpress.com/2013/04/cbs.png" group-title="PREMIUM",CBS HD USA 
+#EXTINF:-1 tvg-name="CBS action" tvg-logo="http://wefixmx.com/cgi-bin/Logos/cbshd.png" group-title="PREMIUM",CBS HD USA 
+http://play.uktvnow.net:1935/live/cbshd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yLzIwMTYgNToyODozOCBBTSZoYXNoX3ZhbHVlPVVZY2E0VXZGQ0cycUEzUFEwekRIZGc9PSZ2YWxpZG1pbnV0ZXM9MjA=
+#EXTINF:-1 tvg-name="CBS action" tvg-logo="http://wefixmx.com/cgi-bin/Logos/cbs-action.png" group-title="PREMIUM",CBS action USA
 
-#EXTINF:-1 tvg-name="CBS action" tvg-logo="https://thetvwatchtower.files.wordpress.com/2013/04/cbs.png" group-title="PREMIUM",CBS action USA
-
-#EXTINF:-1 tvg-name="CBS reality" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/CBS_Reality.png" group-title="PREMIUM",CBS reality USA
+#EXTINF:-1 tvg-name="CBS reality" tvg-logo="http://wefixmx.com/cgi-bin/Logos/cbs-reality.png" group-title="PREMIUM",CBS reality USA
 
 #EXTINF:-1 tvg-name="USA" tvg-logo="http://culturesmash.tv/wp-content/uploads/2014/05/usa_network_logo-600x350.png" group-title="PREMIUM",USA
 
 #EXTINF:-1 tvg-name="SKY Premiere" tvg-logo="http://vignette3.wikia.nocookie.net/qm-coorpration-channel/images/1/15/Showtime_5th_Logo.png/revision/latest?cb=20130915214351" group-title="PREMIUM",Showtime
 
-#EXTINF:-1 tvg-name="SKY Modern Greats" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/e/ef/Sky-Movies-HD-Modern-Greats.png/revision/latest?cb=20111119124728" group-title="PREMIUM",SKY 1 USA
-
-#EXTINF:-1 tvg-name="SKY Modern Greats" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/e/ef/Sky-Movies-HD-Modern-Greats.png/revision/latest?cb=20111119124728" group-title="PREMIUM",SKY 2 USA
-
+#EXTINF:-1 tvg-name="SKY 1" tvg-logo="http://wefixmx.com/cgi-bin/Logos/sky1.png" group-title="PREMIUM",SKY 1 USA
+http://play.uktvnow.net:1935/live/sky10.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yLzIwMTYgNTozOTo1MSBBTSZoYXNoX3ZhbHVlPXdjakJQNitpcHN1MnhmcTEza2twZkE9PSZ2YWxpZG1pbnV0ZXM9MjA=
+#EXTINF:-1 tvg-name="SKY 2" tvg-logo=http://wefixmx.com/cgi-bin/Logos/sky2.png" group-title="PREMIUM",SKY 2 USA
+http://play.uktvnow.net:1935/live/sky2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yLzIwMTYgNTo0MTozMyBBTSZoYXNoX3ZhbHVlPVRRQVhrbUZjWEYrVjJ3S21KY0ltNGc9PSZ2YWxpZG1pbnV0ZXM9MjA=
 #EXTINF:-1 tvg-name="Sky Movies Action" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/c3/Star_Gold_HD_2011.png/revision/latest?cb=20110929114319" group-title="PREMIUM", StarPlus
 
 #EXTINF:-1 tvg-name="Sky Movies Action" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/c3/Star_Gold_HD_2011.png/revision/latest?cb=20110929114319" group-title="PREMIUM", StarGOLD
@@ -445,6 +448,10 @@ http://209.126.124.25:8081/live/sky79/652-HBOFamilycsp/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Sky Movies Action & Adventure" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/0/07/Sky-Movies-ActionAdventure.png/revision/latest?cb=20111118190047" group-title="PREMIUM",Sky Movies Action & Adventure (Test)
 
+#EXTINF:-1 tvg-name="NBC" tvg-logo="http://wefixmx.com/cgi-bin/Logos/nbc.png" group-title="PREMIUM",NBC USA
+http://play.uktvnow.net:1935/live/nbc9.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yLzIwMTYgNTozNjoyNSBBTSZoYXNoX3ZhbHVlPXNWdmZUWWtHcjhJUlZnUGg3RGlvVFE9PSZ2YWxpZG1pbnV0ZXM9MjA=
+
+
 
 
 #EXTINF:-1 tvg-name="Total Play" tvg-logo="http://wefixmx.com/cgi-bin/Logos/DEPORTES.png" group-title="ETIQUETAS",[COLOR yellow] ****DEPORTES****[/COLOR]
@@ -457,22 +464,22 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE05.m3u8
 http://latino-webtv.ml:88/live/516_03.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="http://wefixmx.com/cgi-bin/Logos/espn.png" group-title="DEPORTES",ESPN
 
-#EXTINF:-1 tvg-id="ESPN US" tvg-name="ESPN US" tvg-logo="http://static1.squarespace.com/static/5654ba34e4b085d161b0ec37/5654f8f8e4b0a63eb2a76ad2/56b510679f7266a9d9f3e261/1454706791741/20080617134152!Logo_ESPN.png" group-title="DEPORTES",ESPN US
-
+#EXTINF:-1 tvg-id="ESPN US" tvg-name="ESPN US" tvg-logo="http://static1.squarespace.com/static/5654ba34e4b085d161b0ec37/5654f8f8e4b0a63eb2a76ad2/56b510679f7266a9d9f3e261/1454706791741/20080617134152!Logo_ESPN.png" group-title="DEPORTES",ESPN USA
+http://play.uktvnow.net:1935/live/espn91.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yLzIwMTYgNTozMjo1NCBBTSZoYXNoX3ZhbHVlPUM2U0Fabm9FWTNnL29ydzd4N0o3QVE9PSZ2YWxpZG1pbnV0ZXM9MjA=
 #EXTINF:-1 tvg-id="ESPN US" tvg-name="ESPN US" tvg-logo="http://static1.squarespace.com/static/5654ba34e4b085d161b0ec37/5654f8f8e4b0a63eb2a76ad2/56b510679f7266a9d9f3e261/1454706791741/20080617134152!Logo_ESPN.png" group-title="DEPORTES",ESPN USA
 
 #EXTINF:-1 tvg-id="ESPN US" tvg-name="ESPN US" tvg-logo="http://static1.squarespace.com/static/5654ba34e4b085d161b0ec37/5654f8f8e4b0a63eb2a76ad2/56b510679f7266a9d9f3e261/1454706791741/20080617134152!Logo_ESPN.png" group-title="DEPORTES",ESPN HD USA
 
 #EXTINF:-1 tvg-id="ESPNU" tvg-name="ESPNU" tvg-logo="http://www.direct-vs-dish.com/media/channel_logos/espn_u.png.300x300_q85.png" group-title="DEPORTES",ESPNU
 
-#EXTINF:-1 tvg-id="ESPNews US" tvg-name="ESPNews US" tvg-logo="http://www.colbymusic.com/images/logo-espn-news.png" group-title="DEPORTES",ESPNews US
-
+#EXTINF:-1 tvg-id="ESPNews US" tvg-name="ESPNews US" tvg-logo="http://www.colbymusic.com/images/logo-espn-news.png" group-title="DEPORTES",ESPNews USA
+http://play.uktvnow.net:1935/live/espnnews.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yLzIwMTYgNTozNDoyMCBBTSZoYXNoX3ZhbHVlPXJoZjhVd0ZmVXRnUDkyWmpUK3d3T3c9PSZ2YWxpZG1pbnV0ZXM9MjA=
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" group-title="DEPORTES" tvg-logo="http://wefixmx.com/cgi-bin/Logos/espn-2.png",ESPN 2
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" group-title="DEPORTES" tvg-logo="http://wefixmx.com/cgi-bin/Logos/espn2hd.png",ESPN 2 HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" group-title="DEPORTES" tvg-logo="http://tele-envivo.com/wp-content/uploads/2016/01/espn-2-mexico.png",ESPN 2 US
-
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" group-title="DEPORTES" tvg-logo="http://tele-envivo.com/wp-content/uploads/2016/01/espn-2-mexico.png",ESPN 2 USA
+http://play.uktvnow.net:1935/live/espn2hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yLzIwMTYgNTozMzo0NCBBTSZoYXNoX3ZhbHVlPUtGSzN1KzRoWEExbWNCbm8vcDhpL2c9PSZ2YWxpZG1pbnV0ZXM9MjA=
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" group-title="DEPORTES" tvg-logo="http://wefixmx.com/cgi-bin/Logos/espn-3.png",ESPN 3
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" group-title="DEPORTES" tvg-logo="http://wefixmx.com/cgi-bin/Logos/ESPN3HD.png",ESPN 3 HD
@@ -506,7 +513,7 @@ http://104.236.80.130:8081/live/77/Planetafutbol886/playlist.m3u8
 #EXTINF:-1 tvg-id="Univisión TDN" tvg-name="Univisión TDN" tvg-logo="http://wefixmx.com/cgi-bin/Logos/utdn.png" group-title="DEPORTES",Univision TDN
 http://104.236.61.232:8081/live/sky69/Un1v15ionTDnnNcsp111/playlist.m3u8
 #EXTINF:-1 tvg-id="Univisión TDN USA" tvg-name="Univisión TDN USA" tvg-logo="http://vignette2.wikia.nocookie.net/primeradivisiondemexico/images/5/5c/Univision_tdn.png/revision/latest?cb=20130930004516&path-prefix=es" group-title="DEPORTES",Univision TDN USA
-http://stream.ssh101.com:1935/live/deporteshd12/chunklist.m3u8
+http://play.uktvnow.net:1935/live/mlb.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yLzIwMTYgNTozNTo0NCBBTSZoYXNoX3ZhbHVlPU9EejFHcWg0SzcyYWlNQW53ZnBQM0E9PSZ2YWxpZG1pbnV0ZXM9MjA=
 #EXTINF:-1 tvg-id="Univisión TDN USA" tvg-name="Univisión TDN USA" tvg-logo="http://vignette2.wikia.nocookie.net/primeradivisiondemexico/images/5/5c/Univision_tdn.png/revision/latest?cb=20130930004516&path-prefix=es" group-title="DEPORTES",Univision TDN USA 2
 http://52.37.237.165:8000/live/cloudtv/cloudtv/11.m3u8
 #EXTINF:-1 tvg-id="DirecTV" tvg-name="DirecTV" tvg-logo="http://wefixmx.com/cgi-bin/Logos/directv.png" group-title="DEPORTES",DirecTV
@@ -772,22 +779,22 @@ http://goo.gl/DqR1eW
 
 #EXTINF:-1 tvg-name="Total Play" tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereS.png" group-title="Peliculas on Demand",       [COLOR red] ****PELICULAS ON DEMAND****[/COLOR]
 http://
-#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",The Forest
-http://goo.gl/2vQnZL
-#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",Risen
-http://goo.gl/UasGWy
-#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",The Witch
-http://goo.gl/AIPv54
-#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",Sin Filtro
-http://goo.gl/hFRO9V
-#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",50 Shades of Black
-http://goo.gl/gFiWda
-#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",The Trust
-http://goo.gl/2Fzoe1
-#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",Dirty Grandpa
-http://goo.gl/l3fFfk
-#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",Olympus Has Fallen
-http://goo.gl/1bLNpK
+#EXTINF:1 tvg-logo="https://cdn-az.allevents.in/banners/ae70b7950460d870a1795d132f38bf53" group-title="Peliculas on Demand",Busco novio para mi mujer
+http://url.tkilla.com/rTe6oI
+#EXTINF:1 tvg-logo="http://cinepremiere.impresionesaerea.netdna-cdn.com/trailers/2016/04-abril/Do-Over-Poster.jpg" group-title="Peliculas on Demand",Los Doble Vida
+http://url.tkilla.com/12n10e
+#EXTINF:1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/13-hours-the-secret-soldiers-of-benghazi-2016/large_large_yH26AEd2JY5PtbL95nwrh0t3sWi.jpg" group-title="Peliculas on Demand",13 Hours
+http://url.tkilla.com/ke4wrF
+#EXTINF:1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/the-other-side-of-the-door-2016/large_large_hLpbfpkh5MBt86LokeyoReK0yCH.jpg" group-title="Peliculas on Demand",The Other Side Of The Door
+http://url.tkilla.com/ke4wrF
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/Gods_of_Egypt_poster.jpg" group-title="Peliculas on Demand",Gods Of Egypt
+http://url.tkilla.com/T9isUD
+#EXTINF:1 tvg-logo="http://i.insing.com.sg/cms/f7/bc/1f/6d/154826/31aaa5939b_345x518_bbe63a57b3.jpg" group-title="Peliculas on Demand",The Fait Of Anna Waters
+http://url.tkilla.com/w5Depf
+#EXTINF:1 tvg-logo="http://mediafiles.cineplex.com/Central/Film/Posters/23221_320_470.jpg" group-title="Peliculas on Demand",London Has Fallen
+http://url.tkilla.com/uHywqx
+#EXTINF:1 tvg-logo="http://www.cotternews.org/wp-content/uploads/2016/03/Zoolander.jpg" group-title="Peliculas on Demand",Zoolander 2
+http://url.tkilla.com/nLo6lm
 #EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",The Conjuring
 http://goo.gl/dTuEpL
 #EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",Elysium
