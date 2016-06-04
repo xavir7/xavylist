@@ -504,8 +504,8 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL569/PROFILE03.m3u8
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE05.m3u8?supertvlat=%2F.ts
 #EXTINF:-1 tvg-id="TDN" tvg-name="TDN" tvg-logo="tdn-mx.png" group-title="DEPORTES",TDN Mexico [COLOR gold]COPA[/COLOR] [COLOR blue]AMERICA[/COLOR]
 http://209.126.124.25:8081/live/97/tdnn1/playlist.m3u8
-#EXTINF:-1 tvg-id="TDN" tvg-name="TDN" tvg-logo="tdn-mx.png" group-title="DEPORTES",TDN Mexico 2
-
+#EXTINF:-1 tvg-id="TDN" tvg-name="TDN" tvg-logo="tdn-mx.png" group-title="DEPORTES",TDN Mexico Baja Calidad
+http://azubuhlspull-a.akamaihd.net/500e1b7c7987ec3c718e7b484406a9a3/us-west-1/video314974CHztzzhmug/2400/index.m3u8
 #EXTINF:-1 tvg-id="Planeta Futbol" tvg-name="Planeta Futbol" tvg-logo="http://vignette2.wikia.nocookie.net/liga-mx/images/c/c1/Planeta_Futbol_Logo.png/revision/latest?cb=20150512175207&path-prefix=es" group-title="DEPORTES",Sky Sports
 http://104.236.80.130:8081/live/77/Planetafutbol886/playlist.m3u8
 #EXTINF:-1 tvg-id="Univisión TDN" tvg-name="Univisión TDN" tvg-logo="http://wefixmx.com/cgi-bin/Logos/utdn.png" group-title="DEPORTES",Univision TDN
@@ -520,10 +520,15 @@ http://52.37.237.165:8000/live/cloudtv/cloudtv/11.m3u8
 http://146.185.16.60:8088/stream/directvsusy/playlist.m3u8?id=2273&pk=0f09e4cfd340ad54299502a5165a5bc842573b0a3d3d0306790cccf23e3a305a
 #EXTINF:-1 tvg-id="DirecTV" tvg-name="DirecTV" tvg-logo="http://wefixmx.com/cgi-bin/Logos/tvargentina.png" group-title="DEPORTES",TV Argentina [COLOR gold]COPA[/COLOR] [COLOR blue]AMERIC*[/COLOR]
 http://146.185.16.60:8088/stream/sports2susy/playlist.m3u8?id=2271&pk=0f09e4cfd340ad54299502a5165a5bc842573b0a3d3d0306790cccf23e3a305a
+#EXTINF:-1 tvg-id="DirecTV" tvg-name="DirecTV" tvg-logo="http://wefixmx.com/cgi-bin/Logos/tvargentina.png" group-title="DEPORTES",TV Argentina [COLOR gold]COPA[/COLOR] [COLOR blue]AMERIC*[/COLOR]
+http://live-edge01.telecentro.net.ar/live/smil:tvp.smil/master.m3u8
 #EXTINF:-1 tvg-name="Win Sports" tvg-logo="http://wefixmx.com/cgi-bin/Logos/winsports.png" group-title="DEPORTES",Win Sports [COLOR gold]COPA[/COLOR] [COLOR blue]AMERICA[/COLOR]
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/yt1_1.m3u8
-#EXTINF:-1 tvg-name=Claro Sports" tvg-logo="http://wefixmx.com/cgi-bin/Logos/clarosports.png" group-title="DEPORTES",Claro Sports [COLOR gold]COPA[/COLOR] [COLOR blue]AMERICA[/COLOR]
+#EXTINF:-1 tvg-name="Claro Sports" tvg-logo="http://wefixmx.com/cgi-bin/Logos/clarosports.png" group-title="DEPORTES",Claro Sports [COLOR gold]COPA[/COLOR] [COLOR blue]AMERICA[/COLOR]
 http://107.170.241.204:8081/live/74/claro/playlist.m3u8
+#EXTINF:-1 tvg-name="Gol TV" tvg-logo="http://compass.xboxlive.com/assets/43/e3/43e36213-33fc-4c23-bdb7-e7c8cff61e44.png" group-title="DEPORTES",Gol TV [COLOR gold]COPA[/COLOR] [COLOR blue]AMERICA[/COLOR]
+http://50.97.142.130/hls2/amlst:30001_ios/master.m3u8
+
 #EXTINF:-1 tvg-name="Bein Sports" tvg-logo="http://wefixmx.com/cgi-bin/Logos/pokercentral.png" group-title="DEPORTES",Poker Central
 http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
 #EXTINF:-1 tvg-name="TVC Deportes" tvg-logo="http://www.miralotv.org/images/tvcdeportes.png" group-title="DEPORTES”,TVC Deportes *(Prueba)*
