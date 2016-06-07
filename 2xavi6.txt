@@ -203,7 +203,7 @@ http://
 #EXTINF:-1 tvg-name="Animal Planet" tvg-logo="http://wefixmx.com/cgi-bin/Logos/animalplanet.png" group-title="CULTURAL",Animal Planet
 http://45.55.143.151:8081/live/sky96/animalplanet/playlist.m3u8
 #EXTINF:-1 tvg-name="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f7/HGTV_logo_2015.png" group-title="CULTURAL",HGTV
-
+http://play.uktvnow.net:1935/live/hgtv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni83LzIwMTYgNjozNjoxNiBBTSZoYXNoX3ZhbHVlPURCam1zYmhNRVZXNy9GRDd2bHMxMUE9PSZ2YWxpZG1pbnV0ZXM9MjA=
 #EXTINF:-1 tvg-id="History HD" tvg-name="History HD" tvg-logo="history.png" group-title="CULTURAL",History
 
 #EXTINF:-1 tvg-id="History HD" tvg-name="History HD" tvg-logo="history.png" group-title="CULTURAL",History
@@ -305,8 +305,8 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL440/PROFILE03.m3u8
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-name="Canal del Congreso" group-title="NOTICIAS" tvg-logo="http://tutelevisionenvivo.org/wp-content/uploads/2010/10/canal_del_congreso_mexico.png",Canal del Congreso
 http://dl.canaldelcongreso.gob.mx:1935/ccongreso/mp4:congreso2b.mp4/playlist.m3u8
-#EXTINF:-1 tvg-name="CNN Internacional" tvg-logo="http://vector.me/files/images/3/8/38275/cnn_international.png" group-title="NOTICIAS",CNN Internacional
-http://edge1.everyon.tv/etv1sb/pld16/chunklist_w535411323.m3u8
+#EXTINF:-1 tvg-name="CNN Internacional" tvg-logo="http://vector.me/files/images/3/8/38275/cnn_international.png" group-title="NOTICIAS",CNN USA
+http://play.uktvnow.net:1935/live/cnn9.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni83LzIwMTYgNjozNTozNiBBTSZoYXNoX3ZhbHVlPUpobEhvb0dVM0NONlZXQjltYUZ1T2c9PSZ2YWxpZG1pbnV0ZXM9MjA=
 #EXTINF:-1 tvg-name="CNN en Español" tvg-logo="http://vector.me/files/images/3/8/38275/cnn_international.png" group-title="NOTICIAS",CNN Español
 http://104.236.46.32:8081/live/sky96/cnnesp/playlist.m3u8
 #EXTINF:-1 tvg-name="TN" group-title="NOTICIAS" tvg-logo="http://wefixmx.com/cgi-bin/Logos/tn.png",Todo Noticias
@@ -413,9 +413,9 @@ http://play.uktvnow.net:1935/live/cbshd.stream/playlist.m3u8?wmsAuthSign=c2VydmV
 #EXTINF:-1 tvg-name="CBS action" tvg-logo="http://wefixmx.com/cgi-bin/Logos/cbs-action.png" group-title="PREMIUM",CBS action USA
 
 #EXTINF:-1 tvg-name="CBS reality" tvg-logo="http://wefixmx.com/cgi-bin/Logos/cbs-reality.png" group-title="PREMIUM",CBS reality USA
-
+http://play.uktvnow.net:1935/live/cbsreality.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni83LzIwMTYgNjo0MTo0NyBBTSZoYXNoX3ZhbHVlPUJ3emxXVEFQaWFMcHFUNnorYjljbFE9PSZ2YWxpZG1pbnV0ZXM9MjA=
 #EXTINF:-1 tvg-name="USA" tvg-logo="http://culturesmash.tv/wp-content/uploads/2014/05/usa_network_logo-600x350.png" group-title="PREMIUM",USA
-
+http://play.uktvnow.net:1935/live/usa9.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni83LzIwMTYgNjozODoyMyBBTSZoYXNoX3ZhbHVlPTFOWjFBNUNnNVhkRVdtR3pad0lFSnc9PSZ2YWxpZG1pbnV0ZXM9MjA=
 #EXTINF:-1 tvg-name="SKY Premiere" tvg-logo="http://vignette3.wikia.nocookie.net/qm-coorpration-channel/images/1/15/Showtime_5th_Logo.png/revision/latest?cb=20130915214351" group-title="PREMIUM",Showtime
 
 #EXTINF:-1 tvg-name="SKY 1" tvg-logo="http://wefixmx.com/cgi-bin/Logos/sky1.png" group-title="PREMIUM",SKY 1 USA
@@ -423,7 +423,7 @@ http://play.uktvnow.net:1935/live/sky10.stream/playlist.m3u8?wmsAuthSign=c2VydmV
 #EXTINF:-1 tvg-name="SKY 2" tvg-logo=http://wefixmx.com/cgi-bin/Logos/sky2.png" group-title="PREMIUM",SKY 2 USA
 http://play.uktvnow.net:1935/live/sky2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yLzIwMTYgNTo0MTozMyBBTSZoYXNoX3ZhbHVlPVRRQVhrbUZjWEYrVjJ3S21KY0ltNGc9PSZ2YWxpZG1pbnV0ZXM9MjA=
 #EXTINF:-1 tvg-name="Sky Movies Action" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/c3/Star_Gold_HD_2011.png/revision/latest?cb=20110929114319" group-title="PREMIUM", StarPlus
-
+http://play.uktvnow.net:1935/live/starplus.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni83LzIwMTYgNjo0MjoyMCBBTSZoYXNoX3ZhbHVlPUcwbTB1ZWFkRkhxRTA3UWNTa2U4QVE9PSZ2YWxpZG1pbnV0ZXM9MjA=
 #EXTINF:-1 tvg-name="Sky Movies Action" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/c3/Star_Gold_HD_2011.png/revision/latest?cb=20110929114319" group-title="PREMIUM", StarGOLD
 
 #EXTINF:-1 tvg-name="SKY Modern Greats" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/e/ef/Sky-Movies-HD-Modern-Greats.png/revision/latest?cb=20111119124728" group-title="PREMIUM",SKY Modern Greats (Test)
@@ -457,7 +457,7 @@ http://play.uktvnow.net:1935/live/nbc9.stream/playlist.m3u8?wmsAuthSign=c2VydmVy
 #EXTINF:-1 tvg-name="Total Play" tvg-logo="http://wefixmx.com/cgi-bin/Logos/DEPORTES.png" group-title="ETIQUETAS",[COLOR yellow] ****DEPORTES****[/COLOR]
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-name="ESPN+" tvg-logo="http://wefixmx.com/cgi-bin/Logos/espn+.png" group-title="DEPORTES",ESPN+
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE03.m3u8
+http://189.203.173.19/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE03.m3u8
 #EXTINF:-1 tvg-name="ESPN+" tvg-logo="http://wefixmx.com/cgi-bin/Logos/espn+.png" group-title="DEPORTES",ESPN+ HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="http://wefixmx.com/cgi-bin/Logos/espn.png" group-title="DEPORTES",ESPN
@@ -465,7 +465,7 @@ http://latino-webtv.ml:88/live/516_03.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="http://wefixmx.com/cgi-bin/Logos/espn.png" group-title="DEPORTES",ESPN
 
 #EXTINF:-1 tvg-id="ESPN US" tvg-name="ESPN US" tvg-logo="http://static1.squarespace.com/static/5654ba34e4b085d161b0ec37/5654f8f8e4b0a63eb2a76ad2/56b510679f7266a9d9f3e261/1454706791741/20080617134152!Logo_ESPN.png" group-title="DEPORTES",ESPN USA
-http://play.uktvnow.net:1935/live/espn91.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yLzIwMTYgNTozMjo1NCBBTSZoYXNoX3ZhbHVlPUM2U0Fabm9FWTNnL29ydzd4N0o3QVE9PSZ2YWxpZG1pbnV0ZXM9MjA=
+http://play.uktvnow.net:1935/live/espn91.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni83LzIwMTYgNjo0NDoxNiBBTSZoYXNoX3ZhbHVlPWF5amh4TVlzSFZGRFNDOHNZbkR2cnc9PSZ2YWxpZG1pbnV0ZXM9MjA=
 #EXTINF:-1 tvg-id="ESPN US" tvg-name="ESPN US" tvg-logo="http://static1.squarespace.com/static/5654ba34e4b085d161b0ec37/5654f8f8e4b0a63eb2a76ad2/56b510679f7266a9d9f3e261/1454706791741/20080617134152!Logo_ESPN.png" group-title="DEPORTES",ESPN USA
 
 #EXTINF:-1 tvg-id="ESPN US" tvg-name="ESPN US" tvg-logo="http://static1.squarespace.com/static/5654ba34e4b085d161b0ec37/5654f8f8e4b0a63eb2a76ad2/56b510679f7266a9d9f3e261/1454706791741/20080617134152!Logo_ESPN.png" group-title="DEPORTES",ESPN HD USA
@@ -473,33 +473,35 @@ http://play.uktvnow.net:1935/live/espn91.stream/playlist.m3u8?wmsAuthSign=c2Vydm
 #EXTINF:-1 tvg-id="ESPNU" tvg-name="ESPNU" tvg-logo="http://www.direct-vs-dish.com/media/channel_logos/espn_u.png.300x300_q85.png" group-title="DEPORTES",ESPNU
 
 #EXTINF:-1 tvg-id="ESPNews US" tvg-name="ESPNews US" tvg-logo="http://www.colbymusic.com/images/logo-espn-news.png" group-title="DEPORTES",ESPNews USA
-http://play.uktvnow.net:1935/live/espnnews.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yLzIwMTYgNTozNDoyMCBBTSZoYXNoX3ZhbHVlPXJoZjhVd0ZmVXRnUDkyWmpUK3d3T3c9PSZ2YWxpZG1pbnV0ZXM9MjA=
+http://play.uktvnow.net:1935/live/espnnews.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni83LzIwMTYgNjozOTowOSBBTSZoYXNoX3ZhbHVlPU1KT1lTemszbTlTQXdhZVl6T3VQdGc9PSZ2YWxpZG1pbnV0ZXM9MjA=
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" group-title="DEPORTES" tvg-logo="http://wefixmx.com/cgi-bin/Logos/espn-2.png",ESPN 2
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE03.m3u8
+http://45.55.143.151:8081/live/sky97/Espn2/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" group-title="DEPORTES" tvg-logo="http://wefixmx.com/cgi-bin/Logos/espn2hd.png",ESPN 2 HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE05.m3u8?supertvlat=%2F.ts
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" group-title="DEPORTES" tvg-logo="http://tele-envivo.com/wp-content/uploads/2016/01/espn-2-mexico.png",ESPN 2 USA
-http://play.uktvnow.net:1935/live/espn2hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yLzIwMTYgNTozMzo0NCBBTSZoYXNoX3ZhbHVlPUtGSzN1KzRoWEExbWNCbm8vcDhpL2c9PSZ2YWxpZG1pbnV0ZXM9MjA=
+http://play.uktvnow.net:1935/live/espn2hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni83LzIwMTYgNjo0NDo0NiBBTSZoYXNoX3ZhbHVlPTQrOXlQTGVFc1d2V1lyYncvd2VQeWc9PSZ2YWxpZG1pbnV0ZXM9MjA=
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" group-title="DEPORTES" tvg-logo="http://wefixmx.com/cgi-bin/Logos/espn-3.png",ESPN 3
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" group-title="DEPORTES" tvg-logo="http://wefixmx.com/cgi-bin/Logos/ESPN3HD.png",ESPN 3 HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE05.m3u8?supertvlat=%2F.ts
 #EXTINF:-1 tvg-id="Fox Sports" tvg-name="Fox Sports" group-title="DEPORTES" tvg-logo="foxsport.png",Fox Sports
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE03.m3u8
+http://104.236.46.32:8081/live/sky96/1Foxsports111/playlist.m3u8
 #EXTINF:-1 tvg-id="Fox Sports" tvg-name="Fox Sports" group-title="DEPORTES" tvg-logo="foxsport.png",Fox Sports
 
 #EXTINF:-1 tvg-id="Fox Sports" tvg-name="Fox Sports" group-title="DEPORTES" tvg-logo="foxsport.png",Fox Sports HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE05.m3u8?supertvlat=%2F.ts
 #EXTINF:-1 tvg-id="Fox Sports USA" tvg-name="Fox Sports" group-title="DEPORTES" tvg-logo="http://wefixmx.com/cgi-bin/Logos/fs1.png",Fox Sports USA
 http://162.248.6.122:8080/
+#EXTINF:-1 tvg-id="Fox Sports USA" tvg-name="Fox Sports" group-title="DEPORTES" tvg-logo="http://wefixmx.com/cgi-bin/Logos/fs1.png",Fox Sports USA
+http://play.uktvnow.net:1935/live/foxsports1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni83LzIwMTYgNjo0NToyMyBBTSZoYXNoX3ZhbHVlPVR2dSttSTV2bjNrdHpuQnlITXFlTVE9PSZ2YWxpZG1pbnV0ZXM9MjA=
 #EXTINF:-1 tvg-id="Fox Sports 2" tvg-name="Fox Sports 2" group-title="DEPORTES" tvg-logo="FoxSports2.png",Fox Sports 2
-
-#EXTINF:-1 tvg-id="Fox Sports 2" tvg-name="Fox Sports 2" group-title="DEPORTES" tvg-logo="FoxSports2.png",Fox Sports 2
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE03.m3u8
+http://191.101.228.168/tp.php/playlist.m3u8?id=1663
 #EXTINF:-1 tvg-id="Fox Sports 2" tvg-name="Fox Sports 2" group-title="DEPORTES" tvg-logo="FoxSports2.png",Fox Sports 2 HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE05.m3u8?supertvlat=%2F.ts
+#EXTINF:-1 tvg-id="Fox Sports 2 USA" tvg-name="Fox Sports 2 USA" group-title="DEPORTES" tvg-logo="FoxSports2.png",Fox Sports 2 USA
+http://play.uktvnow.net:1935/live/foxsports2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni83LzIwMTYgNjo0NjoyMCBBTSZoYXNoX3ZhbHVlPTJhbmcyYW0yN2ZQVjRwT3FkMHVYK3c9PSZ2YWxpZG1pbnV0ZXM9MjA=
 #EXTINF:-1 tvg-id="Fox Sports 3" tvg-name="Fox Sports 3” group-title="DEPORTES" tvg-logo="foxsports3.png",Fox Sports 3
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL569/PROFILE03.m3u8
+http://107.170.241.204:8081/live/74/fossportsss3/playlist.m3u8
 #EXTINF:-1 tvg-id="Fox Sports 3" tvg-name="Fox Sports 3” group-title="DEPORTES" tvg-logo="foxsports3.png",Fox Sports 3 HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE05.m3u8?supertvlat=%2F.ts
 #EXTINF:-1 tvg-id="TDN" tvg-name="TDN" tvg-logo="tdn-mx.png" group-title="DEPORTES",TDN Mexico [COLOR gold]COPA[/COLOR] [COLOR blue]AMERICA[/COLOR] [COLOR blue]U[/COLOR][COLOR white]S[/COLOR][COLOR red]A[/COLOR]
@@ -507,7 +509,7 @@ http://209.126.124.25:8081/live/97/tdnn1/playlist.m3u8
 #EXTINF:-1 tvg-id="TDN" tvg-name="TDN" tvg-logo="tdn-mx.png" group-title="DEPORTES",TDN Mexico Baja Calidad
 http://azubuhlspull-a.akamaihd.net/500e1b7c7987ec3c718e7b484406a9a3/us-west-1/video314974CHztzzhmug/2400/index.m3u8
 #EXTINF:-1 tvg-id="Planeta Futbol" tvg-name="Planeta Futbol" tvg-logo="http://vignette2.wikia.nocookie.net/liga-mx/images/c/c1/Planeta_Futbol_Logo.png/revision/latest?cb=20150512175207&path-prefix=es" group-title="DEPORTES",Sky Sports
-
+http://104.236.80.130:8081/live/77/Planetafutbol886/playlist.m3u8
 #EXTINF:-1 tvg-id="Univisión TDN" tvg-name="Univisión TDN" tvg-logo="http://wefixmx.com/cgi-bin/Logos/utdn.png" group-title="DEPORTES",Univision TDN
 
 #EXTINF:-1 tvg-id="Univisión TDN" tvg-name="Univisión TDN" tvg-logo="http://wefixmx.com/cgi-bin/Logos/utdn.png" group-title="DEPORTES",Univision TDN [COLOR gold]COPA[/COLOR] [COLOR blue]AMERICA[/COLOR]
@@ -580,7 +582,7 @@ http://worldcs.info:8080/live/ZX1lBACxzx/19lYOHxHT9/7213.m3u8
 #EXTINF:-1 tvg-name="ES Real Madrid TV" tvg-logo="http://1.bp.blogspot.com/-Jf9PjwEmDM4/UbnzKQIBKJI/AAAAAAAAEmQ/gLox-EFiI7I/s320/REAL+MADRD.png" group-title="DEPORTES",Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-name="Canal+ Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Canal%2B_F%C3%BAtbol_2008.svg/200px-Canal%2B_F%C3%BAtbol_2008.svg.png" group-title="DEPORTES",Canal+ Deportes
-http://worldcs.info:8080/live/ZX1lBACxzx/19lYOHxHT9/419.m3u8
+
 #EXTINF:-1 tvg-name="Canal+ Deportes HD" tvg-logo="http://www.adslzone.tv/app/uploads/2010/09/canalplus_liga_hd.png" group-title="DEPORTES",Canal+ Deportes HD
 
 #EXTINF:-1 tvg-name="Canal+ Futbol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Canal%2B_F%C3%BAtbol_2008.svg/200px-Canal%2B_F%C3%BAtbol_2008.svg.png" group-title="DEPORTES",Canal+ Futbol
@@ -588,7 +590,7 @@ http://37.35.232.198:8001/1:0:1:778E:424:1:C00000:0:0:0:
 #EXTINF:-1 tvg-name="Canal+ Futbol 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Canal%2B_F%C3%BAtbol_2008.svg/200px-Canal%2B_F%C3%BAtbol_2008.svg.png" group-title="DEPORTES",Canal+ Futbol 2
 
 #EXTINF:-1 tvg-name="Canal+ Liga HD" tvg-logo="http://images.wikia.com/tvkanal/da/images/f/f5/Canal%2B_Liga.png" group-title="DEPORTES",Canal+ Liga
-http://latino-webtv.ml:88/live/14_03.m3u8
+
 #EXTINF:-1 tvg-name="Canal+ Liga HD" tvg-logo="http://www.adslzone.tv/app/uploads/2010/09/canalplus_liga_hd.png" group-title="DEPORTES",Canal+ Liga HD
 
 #EXTINF:-1 tvg-name="TV Toros" tvg-logo="http://3.bp.blogspot.com/-5l1qSHi7_BA/UeT7MKVn3aI/AAAAAAAABC8/Jk6s1cdRSks/s1600/canal-toros.png" group-title="DEPORTES",Canal+ Toros
@@ -596,19 +598,19 @@ http://latino-webtv.ml:88/live/14_03.m3u8
 #EXTINF:-1 tvg-name="Sky Sports 1" group-title="DEPORTES" tvg-logo="http://www.skysports.com/core/img/channels/Sky-Sports-Logo.png",Sky Sports
 
 #EXTINF:-1 tvg-name="Sky Sports 1" group-title="DEPORTES" tvg-logo="http://www.skysports.com/core/img/channels/Sky-Sports-Logo.png",Sky Sports
-http://104.236.80.130:8081/live/77/futbol/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Sky Sports 1" group-title="DEPORTES" tvg-logo="http://www.skysports.com/core/img/channels/Sky-Sports-1-Logo.png",Sky Sports 1
-rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv21_6vhudlq8
-#EXTINF:-1 tvg-name="Sky Sports 2" group-title="DEPORTES" tvg-logo="http://wefixmx.com/cgi-bin/Logos/SkySports2.png",Sky Sports 2
-rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv22_j5p1mted
+http://80.243.182.106:8080/Sk/SpoooS101/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sports 2" group-title="DEPORTES" tvg-logo="http://wefixmx.com/cgi-bin/Logos/SkySports2.png",Sky Sports 2 HD
+http://149.202.85.84:8080/sk2-20616/local/index.m3u8
 #EXTINF:-1 tvg-name="Sky Sports 3" group-title="DEPORTES" tvg-logo="http://www.skysports.com/core/img/channels/Sky-Sports-3-Logo.png",Sky Sports 3
-rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv23_5px3ntfs
+http://80.243.182.106:8080/Sk/SpoooS33/index.m3u8
 #EXTINF:-1 tvg-name="Sky Sports 4" group-title="DEPORTES" tvg-logo="http://www.skysports.com/core/img/channels/Sky-Sports-4-Logo.png",Sky Sports 4
-rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv24_f84rdmkk
+http://80.243.182.106:8080/Sk/SpoooS4/index.m3u8
 #EXTINF:-1 tvg-name="Sky Sports 5" group-title="DEPORTES" tvg-logo="http://www.skysports.com/core/img/channels/Sky-Sports-5-Logo.png",Sky Sports 5
-rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv25_wt250ssk
+http://80.243.182.106:8080/Sk/SpoooS5/index.m3u8
 #EXTINF:-1 tvg-name="SKY Sports F1" group-title="DEPORTES" tvg-logo="http://www.mattiatufano.me/wp-content/uploads/sky-sport-f1_logo.png",SKY Sports F1
-http://play.uktvnow.net:1935/live/skysportsf120.stream/playlist.m3u8?wowzasessionid=134377157&wmsAuthSign=c2VydmVyX3RpbWU9NS8xOC8yMDE2IDU6MzI6MjkgQU0maGFzaF92YWx1ZT1HRHI5VmdBeWJmUUljY3g3aCtDenpRPT0mdmFsaWRtaW51dGVzPTIw
+http://149.202.207.8:8080/skf1-20616/sallu/index.m3u8
 #EXTINF:-1 tvg-name="Sky Sports News" group-title="DEPORTES" tvg-logo="http://www.aptitudeforsoccer.com/wp-content/uploads/2014/09/sky-sports-news-UK-logo.png",Sky Sports News
 
 #EXTINF:-1 tvg-name="PAC-12 Net. (Arizona)" tvg-logo="http://static.pac-12.com/images/logos/pac-12-arizona-logo.png" group-title="DEPORTES",PAC-12 Net. (Arizona)
@@ -622,7 +624,7 @@ http://xrxs.net/video/live-p12oreg-4728.m3u8?
 #EXTINF:-1 tvg-name="PAC-12 Net. (Washington)" tvg-logo="http://static.pac-12.com/images/logos/pac-12-network-logo.png" group-title="DEPORTES",PAC-12 Net. (Washington)
 http://xrxs.net/video/live-p12wash-4728.m3u8?
 #EXTINF:-1 tvg-name=“CBS Sports Network” tvg-logo="http://wefixmx.com/cgi-bin/Logos/cbssports.png" group-title="DEPORTES",CBS Sports Network
-http://iptvbox.noip.us:9998/live/atik/atik/801.m3u8
+http://s69362.cdn.ngenix.net/live/_definst_/Stream1/anis_sat.m3u8
 #EXTINF:-1 tvg-name="Redbull TV" tvg-logo="http://wefixmx.com/cgi-bin/Logos/redbulltv.png" group-title="DEPORTES",Redbull TV
 http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
 #EXTINF:-1 tvg-id="TyC Sports" tvg-name="TyC Sports" tvg-logo="http://wefixmx.com/cgi-bin/Logos/tyc-sports.png" group-title="DEPORTES",TyC Deportes
@@ -632,7 +634,7 @@ http://live.vodgc.com:1935/kLive/0_a5h483eu_all.smil/stream.m3u8
 #EXTINF:-1 tvg-name="EUROSPORT" tvg-logo="http://wefixmx.com/cgi-bin/Logos/eurosport1.png" group-title="DEPORTES",EUROSPORT
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
 #EXTINF:-1 tvg-name="EUROSPORT" tvg-logo="http://wefixmx.com/cgi-bin/Logos/eurosport2.png" group-title="DEPORTES",EUROSPORT 2
-http://en356.edem.tv/iptv/K8RL4XXEQ9U5F2/141/index.m3u8
+
 #EXTINF:-1 tvg-name="Canal F1 Latinamerica" tvg-logo="f1.png" group-title="DEPORTES",Cana F1 Latinamerica
 
 #EXTINF:-1 tvg-name="Combate" tvg-logo="http://wefixmx.com/cgi-bin/Logos/combate.png" group-title="DEPORTES",Combate
@@ -651,8 +653,12 @@ http://159.203.79.162:8081/live/sky97/ufc11/playlist.m3u8
 http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
 #EXTINF:-1 tvg-id="NFL Network HD" tvg-name="NFL Network HD" tvg-logo="http://wefixmx.com/cgi-bin/Logos/nfl.png" group-title="DEPORTES",NFL Network
 http://107.170.241.204:8081/live/74/nfl/playlist.m3u8
-#EXTINF:-1 tvg-name="MLB Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/383px-MLBNetworkLogo.svg.png" group-title="DEPORTES",MLB Network
-http://play.uktvnow.net:1935/live/mlb.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOC8yMDE2IDM6MzU6MDQgQU0maGFzaF92YWx1ZT1tU0xIME1wekpYTHV5NUNUYXJaVjdnPT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1 tvg-name="MLB Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/383px-MLBNetworkLogo.svg.png" group-title="DEPORTES",MLB Network HD
+http://play.uktvnow.net:1935/live/mlb.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni83LzIwMTYgNjo0NzoyNSBBTSZoYXNoX3ZhbHVlPU50RVp1UGZDNHhMNHc4RWhKOG42U1E9PSZ2YWxpZG1pbnV0ZXM9MjA=
+#EXTINF:-1 tvg-name="WWE Network" tvg-logo="http://www.officialpsds.com/images/thumbs/WWE-Network-Logo-psd98782.png" group-title="DEPORTES",WWE Network
+http://149.202.207.8:8080/wwe-20616/sallu/index.m3u8
+
+
 
 
 
