@@ -50,7 +50,7 @@ http://104.236.46.32:8081/live/sky96/azteca13-2/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Azteca Cinema" tvg-logo="http://www.ipuntotv.com/IMAGES/Az-Cinema-logo.png" group-title="LOCALES",Azteca Cinema
 
-#EXTINF:-1 tvg-name="Azteca Cinema" tvg-logo="http://www.ipuntotv.com/IMAGES/Az-Cinema-logo.png" group-title="LOCALES",Azteca Cinema 2
+#EXTINF:-1 tvg-name="Azteca Cinema" tvg-logo="http://www.ipuntotv.com/IMAGES/Az-Cinema-logo.png" group-title="LOCALES",Azteca Cinema
 https://200.38.126.37:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTgwJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1vYzB4ejh6M2RmZzJuaG8mbGFuPTI=&f=.m3u8
 #EXTINF:-1 tvg-id="Azteca Novelas" tvg-name="Azteca Novelas" tvg-logo="http://static.azteca.com/portal/tvpagahome/images/corazon.png" group-title="LOCALES",Azteca Corazon HD
 
@@ -61,7 +61,7 @@ http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-p.m3u8
 #EXTINF:-1 tvg-id="Multimedios Monterrey" tvg-name="Multimedios Monterrey" group-title="LOCALES" tvg-logo="multimedios-monterrey.png",Multimedios Plus+ HD
 http://multimedioshls-i.akamaihd.net/hls/live/223741/57828478001-3/master.m3u8
 #EXTINF:-1 tvg-id="Multimedios Monterrey" tvg-name="Multimedios Monterrey" group-title="LOCALES" tvg-logo="multimedios-monterrey.png",Multimedios Plus+
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL167/PROFILE03.m3u8
+
 #EXTINF:-1 tvg-id="Multimedios Monterrey" tvg-name="Multimedios Monterrey" group-title="LOCALES" tvg-logo="multimedios-monterrey.png",Multimedios Plus+ 2
 http://159.203.79.162:8081/live/sky97/multimedios/playlist.m3u8
 #EXTINF:-1 tvg-id="Milenio TV" tvg-name="Milenio TV" tvg-logo="milenio-tv.png" group-title="LOCALES",Milenio TV
@@ -96,6 +96,7 @@ http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
 mms://148.234.13.58/canal53bandaancha
 
 
+
 #EXTINF:-1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/ENTRETENIMIENTO.png" group-title="ETIQUETAS",[COLOR yellow] ****ENTRETENIMIENTO****[/COLOR]
 http://
 #EXTINF:-1 tvg-id="Fox" tvg-name="FOX" group-title="ENTRETENIMIENTO" tvg-logo="fox.png",FOX
@@ -111,27 +112,27 @@ http://107.170.187.68:8081/live/sky68/Unicable/playlist.m3u8
 #EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner Channel" group-title="ENTRETENIMIENTO" tvg-logo="http://wefixmx.com/cgi-bin/Logos/warner-hd.png",Warner Channel
 http://104.236.46.32:8081/live/sky96/warner/playlist.m3u8
 #EXTINF:-1 tvg-name=""E! Entertainment Television"" group-title="ENTRETENIMIENTO" tvg-logo="http://wefixmx.com/cgi-bin/link2/guide.xml",E! Entertainment Television
-http://mxl-iptv.cf/addon/mxl_tp.php?token=VTJGc2RHVmtYMTlscmhXN0xlSXM4SXYrejFoQllSekdIaDdNOC83YWQxZz0=&=.m3u8
+https://pro.exabytetv.info/total3/JuZXMgeSBlbCBjdWVycG8gbSB4ZCBMb3JlbSBpcHBzaXQgYW1ldCwgY29uc2VjdGV0dXIRpcGlzaWNpbmcgZWxpdCwgc2VkIGRvIGVpdXNtb2QKdGVtcG9yIGluY2lkaWR1bnQgdXQgbGFib3JlIGV0IGRvbG9yZSBtYWduYSBhbGlxdWEuIFV0IGVuaW0gYWQgbWluaW0gdmVuaWFtLApxdWlzIZXhlcmNpdGF0aW9uIHVsbGFtY28gbG/409/exabytetv.m3u8
 #EXTINF:-1 tvg-id="FX" tvg-name="FX" group-title="ENTRETENIMIENTO" tvg-logo="fx.png",FX
 http://209.126.124.25:8081/live/96/fx/playlist.m3u8
 #EXTINF:-1 tvg-id="FX HD" tvg-name="FX HD" group-title="ENTRETENIMIENTO" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/9/94/Fxhd.png/revision/latest?cb=20120119175742",FX HD
 
 #EXTINF:-1 tvg-id="SyFy" tvg-name="SyFy" group-title="CINEMA" tvg-logo="syfy.png",Syfy
-http://mxl-iptv.cf/addon/mxl_tp.php?token=VTJGc2RHVmtYMS8wcDJJVjhVR0JyYnJRN3pmTXVuOVVjd2JOSWFINUVDTT0=&=.m3u8
+https://pro.exabytetv.info/total3/JuZXMgeSBlbCBjdWVycG8gbSB4ZCBMb3JlbSBpcHBzaXQgYW1ldCwgY29uc2VjdGV0dXIRpcGlzaWNpbmcgZWxpdCwgc2VkIGRvIGVpdXNtb2QKdGVtcG9yIGluY2lkaWR1bnQgdXQgbGFib3JlIGV0IGRvbG9yZSBtYWduYSBhbGlxdWEuIFV0IGVuaW0gYWQgbWluaW0gdmVuaWFtLApxdWlzIZXhlcmNpdGF0aW9uIHVsbGFtY28gbG/418/exabytetv.m3u8
 #EXTINF:-1 tvg-id="Universal Channel" tvg-name="Universal Channel" group-title="ENTRETENIMIENTO" tvg-logo="http://wefixmx.com/cgi-bin/Logos/universalchannel.png",Universal Channel
-http://mxl-iptv.cf/addon/mxl_tp.php?token=VTJGc2RHVmtYMThsSXdaRnU5cjAxaGhnKzViaG0vcUdHL2tmZmhIOTBLdz0=&=.m3u8
+https://pro.exabytetv.info/total3/JuZXMgeSBlbCBjdWVycG8gbSB4ZCBMb3JlbSBpcHBzaXQgYW1ldCwgY29uc2VjdGV0dXIRpcGlzaWNpbmcgZWxpdCwgc2VkIGRvIGVpdXNtb2QKdGVtcG9yIGluY2lkaWR1bnQgdXQgbGFib3JlIGV0IGRvbG9yZSBtYWduYSBhbGlxdWEuIFV0IGVuaW0gYWQgbWluaW0gdmVuaWFtLApxdWlzIZXhlcmNpdGF0aW9uIHVsbGFtY28gbG/463/exabytetv.m3u8
 #EXTINF:-1 tvg-id="Universal Channel HD" tvg-name="Universal Channel HD" group-title="ENTRETENIMIENTO" tvg-logo="http://wefixmx.com/cgi-bin/Logos/universal-channelHD.png",Universal Channel HD
 
 #EXTINF:-1 tvg-name="A&amp;E" group-title="ENTRETENIMIENTO" tvg-logo="a&e.png",A&E
 http://104.131.94.43:1382/live/sky97/AE/playlist.m3u8
 #EXTINF:-1 tvg-name="AXN HD" group-title="ENTRETENIMIENTO" tvg-logo="axn-hd.png",AXN HD
-http://mxl-iptv.cf/addon/mxl_tp.php?token=VTJGc2RHVmtYMTlIcDcxaVhYaS91bW1jaVpTYTlXWmpaYm1yOFBkZFEwcz0=&=.m3u8
+https://pro.exabytetv.info/total3/JuZXMgeSBlbCBjdWVycG8gbSB4ZCBMb3JlbSBpcHBzaXQgYW1ldCwgY29uc2VjdGV0dXIRpcGlzaWNpbmcgZWxpdCwgc2VkIGRvIGVpdXNtb2QKdGVtcG9yIGluY2lkaWR1bnQgdXQgbGFib3JlIGV0IGRvbG9yZSBtYWduYSBhbGlxdWEuIFV0IGVuaW0gYWQgbWluaW0gdmVuaWFtLApxdWlzIZXhlcmNpdGF0aW9uIHVsbGFtY28gbG/399/exabytetv.m3u8
 #EXTINF:-1 tvg-id="Tlnovelas" tvg-name="Tlnovelas" tvg-logo="http://wefixmx.com/cgi-bin/Logos/tlnovelas.png" group-title="ENTRETENIMIENTO",Tlnovelas
 http://104.236.61.232:8081/live/sky69/Telenovelasmom/playlist.m3u8
 #EXTINF:-1 tvg-name="TNT Series" group-title="ENTRETENIMIENTO" tvg-logo="http://www.ipuntotv.com/IMAGES/TNT-Series-logo.png",TNT Series
 http://mxl-iptv.cf/addon/mxl_tp.php?token=VTJGc2RHVmtYMSt4bTgrSVp6RzI5QTRxRWhYZXZjRjVTWlRVZEUzeTY2cz0=&=.m3u8
 #EXTINF:-1 tvg-name="El Gourmet" tvg-logo="el-gourmet.png" group-title="ENTRETENIMIENTO",El Gourmet
-http://mxl-iptv.cf/addon/mxl_tp.php?token=VTJGc2RHVmtYMSt1QjBOcG93d1hqR1ZsQzQxWm9sbmlmYzhFVUtWUll2Zz0=&=.m3u8
+https://pro.exabytetv.info/total3/JuZXMgeSBlbCBjdWVycG8gbSB4ZCBMb3JlbSBpcHBzaXQgYW1ldCwgY29uc2VjdGV0dXIRpcGlzaWNpbmcgZWxpdCwgc2VkIGRvIGVpdXNtb2QKdGVtcG9yIGluY2lkaWR1bnQgdXQgbGFib3JlIGV0IGRvbG9yZSBtYWduYSBhbGlxdWEuIFV0IGVuaW0gYWQgbWluaW0gdmVuaWFtLApxdWlzIZXhlcmNpdGF0aW9uIHVsbGFtY28gbG/410/exabytetv.m3u8
 #EXTINF:-1 tvg-id="Telemundo 39" tvg-name="Telemundo 39" tvg-logo="http://wefixmx.com/cgi-bin/Logos/telemundo.png" group-title="ENTRETENIMIENTO",Telemundo USA
 http://iphone-streaming.ustream.tv/uhls/22243668/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-id="Telemundo" tvg-name="Telemundo" tvg-logo="http://wefixmx.com/cgi-bin/Logos/Telemundo.png" group-title="ENTRETENIMIENTO",Telemundo
@@ -146,12 +147,14 @@ http://104.131.111.63:8081/hls/wjpx/playlist.m3u8
 http://stream.ssh101.com:1935/live/univision101/chunklist.m3u8?sd=10
 #EXTINF:-1 tvg-name="Univisión" tvg-logo="http://wefixmx.com/cgi-bin/Logos/univisionpr.png" group-title="ENTRETENIMIENTO",Univision PR
 http://146.185.130.83:8081/nimble-live/Univision_PR/playlist.m3u8
-#EXTINF:-1 tvg-name="Univisión" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Univision_2013_logo.png" group-title="ENTRETENIMIENTO",Univision 3
+#EXTINF:-1 tvg-name="Univisión" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Univision_2013_logo.png" group-title="ENTRETENIMIENTO",Univision 2
 http://video07-lax.streamup.com/app/univision2chivas_69s-stream_aac/playlist.m3u8
+#EXTINF:-1 tvg-name="Caracol TV" tvg-logo="http://wefixmx.com/cgi-bin/Logos/caracoltv.png" group-title="ENTRETENIMIENTO",Caracol TV
+http://live.tvplayerlatino.com/usuarios/src4/cartv/Wefix.Mx/wzw8OFJetX.m3u8
 #EXTINF:-1 tvg-name="Lifetime" group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Lifetime_logo_2013.png",Lifetime
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL379/PROFILE03.m3u8
+https://pro.exabytetv.info/total3/JuZXMgeSBlbCBjdWVycG8gbSB4ZCBMb3JlbSBpcHBzaXQgYW1ldCwgY29uc2VjdGV0dXIRpcGlzaWNpbmcgZWxpdCwgc2VkIGRvIGVpdXNtb2QKdGVtcG9yIGluY2lkaWR1bnQgdXQgbGFib3JlIGV0IGRvbG9yZSBtYWduYSBhbGlxdWEuIFV0IGVuaW0gYWQgbWluaW0gdmVuaWFtLApxdWlzIZXhlcmNpdGF0aW9uIHVsbGFtY28gbG/415/exabytetv.m3u8
 #EXTINF:-1 tvg-id="Fox Life" tvg-name="Fox Life" group-title="ENTRETENIMIENTO" tvg-logo="fox-life.png",Fox Life
-
+https://pro.exabytetv.info/total3/JuZXMgeSBlbCBjdWVycG8gbSB4ZCBMb3JlbSBpcHBzaXQgYW1ldCwgY29uc2VjdGV0dXIRpcGlzaWNpbmcgZWxpdCwgc2VkIGRvIGVpdXNtb2QKdGVtcG9yIGluY2lkaWR1bnQgdXQgbGFib3JlIGV0IGRvbG9yZSBtYWduYSBhbGlxdWEuIFV0IGVuaW0gYWQgbWluaW0gdmVuaWFtLApxdWlzIZXhlcmNpdGF0aW9uIHVsbGFtY28gbG/412/exabytetv.m3u8
 #EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="tbs.png" group-title="ENTRETENIMIENTO",TBS
 http://104.236.46.32:8081/live/sky96/tbs/playlist.m3u8
 #EXTINF:-1 tvg-id="Glitz" tvg-name="Glitz" group-title="ENTRETENIMIENTO" tvg-logo="glitz.png",Glitz
