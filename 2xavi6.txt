@@ -144,13 +144,13 @@ http://104.131.117.246:8081/chuy/76/088-MundoFox/playlist.m3u8
 #EXTINF:-1 tvg-id="Mundo Max" tvg-name="Mundo Max" tvg-logo="http://wefixmx.com/cgi-bin/Logos/mundomax.png" group-title="ENTRETENIMIENTO",Mundo Max
 http://104.131.111.63:8081/hls/wjpx/playlist.m3u8
 #EXTINF:-1 tvg-name="Univisión Network (East) (UNI)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Univision_2013_logo.png" group-title="ENTRETENIMIENTO",Univision
-http://stream.ssh101.com:1935/live/univision101/chunklist.m3u8?sd=10
+
 #EXTINF:-1 tvg-name="Univisión" tvg-logo="http://wefixmx.com/cgi-bin/Logos/univisionpr.png" group-title="ENTRETENIMIENTO",Univision PR
 http://146.185.130.83:8081/nimble-live/Univision_PR/playlist.m3u8
 #EXTINF:-1 tvg-name="Univisión" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Univision_2013_logo.png" group-title="ENTRETENIMIENTO",Univision 2
-http://video07-lax.streamup.com/app/univision2chivas_69s-stream_aac/playlist.m3u8
-#EXTINF:-1 tvg-name="Caracol TV" tvg-logo="http://wefixmx.com/cgi-bin/Logos/caracoltv.png" group-title="ENTRETENIMIENTO",Caracol TV
 
+#EXTINF:-1 tvg-name="Pinguino TV HD" tvg-logo="http://wefixmx.com/cgi-bin/Logos/caracoltv.png" group-title="ENTRETENIMIENTO",Pinguino TV HD
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
 #EXTINF:-1 tvg-name="Lifetime" group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Lifetime_logo_2013.png",Lifetime
 https://pro.exabytetv.info/total3/TG9yZW0gaX/415/exabytetv.m3u8
 #EXTINF:-1 tvg-id="Fox Life" tvg-name="Fox Life" group-title="ENTRETENIMIENTO" tvg-logo="fox-life.png",Fox Life
@@ -206,7 +206,7 @@ http://
 #EXTINF:-1 tvg-name="Animal Planet" tvg-logo="http://wefixmx.com/cgi-bin/Logos/animalplanet.png" group-title="CULTURAL",Animal Planet
 http://45.55.143.151:8081/live/sky96/animalplanet/playlist.m3u8
 #EXTINF:-1 tvg-name="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f7/HGTV_logo_2015.png" group-title="CULTURAL",HGTV
-
+http://play.uktvnow.net:1935/live/hgtv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNi8yMDE2IDM6NDI6NTkgQU0maGFzaF92YWx1ZT1kYlJSYS9iWWwxTGVEUkJzNjZwb1NRPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 tvg-id="History HD" tvg-name="History HD" tvg-logo="history.png" group-title="CULTURAL",History
 
 #EXTINF:-1 tvg-id="History HD" tvg-name="History HD" tvg-logo="history.png" group-title="CULTURAL",History
@@ -308,8 +308,8 @@ http://201.161.59.7/dhe.isml/manifest(format=m3u8-aapl).m3u8
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-name="Canal del Congreso" group-title="NOTICIAS" tvg-logo="http://tutelevisionenvivo.org/wp-content/uploads/2010/10/canal_del_congreso_mexico.png",Canal del Congreso
 http://dl.canaldelcongreso.gob.mx:1935/ccongreso/mp4:congreso2b.mp4/playlist.m3u8
-#EXTINF:-1 tvg-name="CNN Internacional" tvg-logo="http://vector.me/files/images/3/8/38275/cnn_international.png" group-title="NOTICIAS",CNN USA
-
+#EXTINF:-1 tvg-name="MVS Noticias" tvg-logo="http://vector.me/files/images/3/8/38275/cnn_international.png" group-title="NOTICIAS",MVS Noticias
+http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8
 #EXTINF:-1 tvg-name="CNN en Español" tvg-logo="http://vector.me/files/images/3/8/38275/cnn_international.png" group-title="NOTICIAS",CNN Español
 http://104.236.46.32:8081/live/sky96/cnnesp/playlist.m3u8
 #EXTINF:-1 tvg-name="TN" group-title="NOTICIAS" tvg-logo="http://wefixmx.com/cgi-bin/Logos/tn.png",Todo Noticias
