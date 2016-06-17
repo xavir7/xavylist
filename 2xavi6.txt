@@ -402,15 +402,15 @@ http://209.126.124.25:8081/live/sky79/652-HBOFamilycsp/playlist.m3u8
 #EXTINF:-1 tvg-id="MAX" tvg-name="MAX" tvg-logo="http://wefixmx.com/cgi-bin/Logos/Max_HD.png" group-title="PREMIUM",MAX
 
 #EXTINF:-1 tvg-name="Canal+ Estrenos" tvg-logo="http://web.telecable.es/documents/36258/140776/logocanal%2Bestrenos.png/31fed192-b686-4dc5-80da-9b95c811df05?t=1453198015207" group-title="PREMIUM",Canal+ Estrenos
-
+http://164.132.168.61:9998//streaming/clients_live.php?username=mile&password=skype&stream=587&extension=m3u8&hash=bd91e1ad40ced43724fda780ce3a5cf2&time=0&pid=18588&external_device=&on_demand=0
 #EXTINF:-1 tvg-name="Canal+ Series" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a9/Canal%2B_S%C3%A9ries_logo.png" group-title="PREMIUM",Canal+ Series
 
 #EXTINF:-1 tvg-name="Canal+ Acción" tvg-logo="http://4.bp.blogspot.com/-2KJFeZRllBY/VmbtCTeCYuI/AAAAAAAAHtM/vIxrmp3Pa0E/s1600/Canal%252B_Acci%25C3%25B3n.png" group-title="PREMIUM",Canal+ Accion
-
+http://164.132.168.61:9998//streaming/clients_live.php?username=mile&password=skype&stream=262&extension=m3u8&hash=fd60f838c1f9d0dac4fd493c3003f0ee&time=0&pid=8878&external_device=&on_demand=0
 #EXTINF:-1 tvg-name="Canal+ Comedia" tvg-logo="http://wefixmx.com/cgi-bin/Logos/canal+comedia.png" group-title="PREMIUM",Canal+ Comedia
 
 #EXTINF:-1 tvg-name="Canal+ DCine" tvg-logo="http://wefixmx.com/cgi-bin/Logos/canal+DCine.png" group-title="PREMIUM",Canal+ DCine
-
+http://164.132.168.61:9998//streaming/clients_live.php?username=mile&password=skype&stream=261&extension=m3u8&hash=52bd303f055b6453039b5a8da39cce3f&time=0&pid=18478&external_device=&on_demand=0
 #EXTINF:-1 tvg-name="CBS drama" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/b/b2/CBS_drama_RGB.png/revision/latest?cb=20091107144033" group-title="PREMIUM",CBS drama USA
 
 #EXTINF:-1 tvg-name="CBS" tvg-logo="http://wefixmx.com/cgi-bin/Logos/cbs.png" group-title="PREMIUM",CBS USA
