@@ -798,18 +798,22 @@ http://goo.gl/DqR1eW
 
 #EXTINF:-1 tvg-name="Total Play" tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereS.png" group-title="Peliculas on Demand",       [COLOR red] ****PELICULAS ON DEMAND****[/COLOR]
 http://
-#EXTINF:1 tvg-logo="https://cdn-az.allevents.in/banners/ae70b7950460d870a1795d132f38bf53" group-title="Peliculas on Demand",Busco novio para mi mujer
-http://url.tkilla.com/rTe6oI
-#EXTINF:1 tvg-logo="http://cinepremiere.impresionesaerea.netdna-cdn.com/trailers/2016/04-abril/Do-Over-Poster.jpg" group-title="Peliculas on Demand",Los Doble Vida
-http://url.tkilla.com/12n10e
-#EXTINF:1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/13-hours-the-secret-soldiers-of-benghazi-2016/large_large_yH26AEd2JY5PtbL95nwrh0t3sWi.jpg" group-title="Peliculas on Demand",13 Hours
-http://url.tkilla.com/ke4wrF
-#EXTINF:1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/the-other-side-of-the-door-2016/large_large_hLpbfpkh5MBt86LokeyoReK0yCH.jpg" group-title="Peliculas on Demand",The Other Side Of The Door
-http://url.tkilla.com/ke4wrF
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/Gods_of_Egypt_poster.jpg" group-title="Peliculas on Demand",Gods Of Egypt
-http://url.tkilla.com/T9isUD
-#EXTINF:1 tvg-logo="http://i.insing.com.sg/cms/f7/bc/1f/6d/154826/31aaa5939b_345x518_bbe63a57b3.jpg" group-title="Peliculas on Demand",The Fait Of Anna Waters
-http://url.tkilla.com/w5Depf
+#EXTINF:1 tvg-logo="http://www.elmulticine.com/imagenes/carteles/6/los-milagros-cielo-cartel-b.jpg
+" group-title="Peliculas on Demand",Milagros del Cielo
+http://5.79.81.105:8777/qkipe2envpuzcg3h5gxsptpl26e37yyge4ze4ptnziftm37c3vm6ezc4vmha/v.flv
+#EXTINF:1 tvg-logo="http://cdn.traileraddict.com/content/ff/approaching-unknown-trailercap2.jpg
+3" group-title="Peliculas on Demand",Approaching the Unknown
+http://95.211.196.4:8777/fgipltggvhuzcg3h5gbcphfz3rpq3w6hvvppkqpqroyijdj2bc7xvh3lsm6a/v.flv
+#EXTINF:1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/hello-my-name-is-doris-2016/large_large_sFEruVDMWyMvYEvyV1l5HY6jU4j.jpg" group-title="Peliculas on Demand",Hello My Name Is Doris
+http://95.211.210.93:8777/agipkur6v3uzcg3h5ggcps5z376fveig5fvpzppfrqzwxai4gqpiaaicpn5q/v.flv
+#EXTINF:1 tvg-logo="http://www.wow-latino.com/wp-content/uploads/2016/03/CeUzhTwWEAApXE5.jpg" group-title="Peliculas on Demand",Warcraft
+http://url.tkilla.com/C5We2g
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/30/Ronaldo_2015_film_poster.png" group-title="Peliculas on Demand",Ronaldo
+http://95.211.203.198:8777/f6i7h53us7uzcg3h5e3cnshdyn4qc44ooszb367kzcmrt42nvzl2ecvvwrjq/v.flv
+#EXTINF:1 tvg-logo="https://monsterzeronj.files.wordpress.com/2016/06/before-i-wake.jpg" group-title="Peliculas on Demand",Before I Wake
+http://s13.diskokosmiko.mx/download?e=_3q9KyAK4rhk8OyoTrIN9DlMDwZ84EU8arH2E9Xph_OGnnwx7rNq5YKCNwKoUT1wWf0oK9CpYxCP_6MHMmOfWPwlYMOfLpHC3QlIJCMFJdpy28BQhIkCaZydjCb74OIH1KHxVrPzJG10_Mtv0gevjYUvSiiSqeagiO0gnpHHqfBVxxHpbVnC6HmA2xJ2W5gZzkhoTe3H570yuneeE9YL7g
+#EXTINF:1 tvg-logo="https://benlambfans.files.wordpress.com/2015/02/bloodorangeposter.png" group-title="Peliculas on Demand",Blood Orange
+http://s12.diskokosmiko.mx/download?e=8tpKLI3_UJZVRtoh3sU2fSnqSBV9Z6cBn49mvOQcDEwvtH1clJ5_sZXNohWjzSo_-NxCLxHEzjgOkQ55SADMaOLO4SaEazTqD0-Sri5E9ZMV6nrWcuNwOgl8whYnj7MnraqN7Bj5Ugtb6hHd_mPSH52hB8tVFSA-B7TWnhaamhU1as63tdrDhUkXZS6c1sG0shfk4k2b1aH3HeHjb0gt3DbiGOgqDe16l8LMKLllJMw
 #EXTINF:1 tvg-logo="http://mediafiles.cineplex.com/Central/Film/Posters/23221_320_470.jpg" group-title="Peliculas on Demand",London Has Fallen
 http://url.tkilla.com/uHywqx
 #EXTINF:1 tvg-logo="http://www.cotternews.org/wp-content/uploads/2016/03/Zoolander.jpg" group-title="Peliculas on Demand",Zoolander 2
