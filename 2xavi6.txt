@@ -114,7 +114,7 @@ http://107.170.187.68:8081/live/sky68/Unicable/playlist.m3u8
 #EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner Channel" group-title="ENTRETENIMIENTO" tvg-logo="http://wefixmx.com/cgi-bin/Logos/warner-hd.png",Warner Channel
 http://104.236.46.32:8081/live/sky96/warner/playlist.m3u8
 #EXTINF:-1 tvg-name=""E! Entertainment Television"" group-title="ENTRETENIMIENTO" tvg-logo="http://wefixmx.com/cgi-bin/link2/guide.xml",E! Entertainment Television
-https://pro.exabytetv.info/total3/xkg584hgb6x7/409/exabytetv.m3u8
+http://191.101.228.168/tp.php/playlist.m3u8?id=1392
 #EXTINF:-1 tvg-id="FX" tvg-name="FX" group-title="ENTRETENIMIENTO" tvg-logo="fx.png",FX
 http://209.126.124.25:8081/live/96/fx/playlist.m3u8
 #EXTINF:-1 tvg-id="FX HD" tvg-name="FX HD" group-title="ENTRETENIMIENTO" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/9/94/Fxhd.png/revision/latest?cb=20120119175742",FX HD
@@ -231,6 +231,8 @@ https://pro.exabytetv.info/total3/xkg584hgb6x7/495/exabytetv.m3u8
 http://104.236.61.232:8081/live/sky69/Idcsp/playlist.m3u8
 #EXTINF:-1 tvg-id="HD Theater" tvg-name="HD Theater" tvg-logo="http://vignette1.wikia.nocookie.net/tvcable/images/b/b4/LOGO_THEATER_BLACK1.png/revision/latest?cb=20150325154716&path-prefix=es" group-title="CULTURAL",Discovery Theater
 https://pro.exabytetv.info/total3/xkg584hgb6x7/496/exabytetv.m3u8
+#EXTINF:-1 tvg-id="HD Theater" tvg-name="HD Theater" tvg-logo="http://vignette1.wikia.nocookie.net/tvcable/images/b/b4/LOGO_THEATER_BLACK1.png/revision/latest?cb=20150325154716&path-prefix=es" group-title="CULTURAL",Discovery Theater HD
+http://191.101.228.168/tp.php/playlist.m3u8?id=1504
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="http://wefixmx.com/cgi-bin/Logos/tlc.png" group-title="CULTURAL",TLC Discovery
 https://pro.exabytetv.info/total3/xkg584hgb6x7/503/exabytetv.m3u8
 #EXTINF:-1 tvg-id="DW" tvg-name="DW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_(TV)_Logo_2012.png" group-title="CULTURAL",DW
@@ -543,12 +545,12 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/yt1_1.m3u8
 http://107.170.241.204:8081/live/74/claro/playlist.m3u8
 #EXTINF:-1 tvg-name="Gol TV" tvg-logo="http://compass.xboxlive.com/assets/43/e3/43e36213-33fc-4c23-bdb7-e7c8cff61e44.png" group-title="DEPORTES",Gol TV [COLOR gold]COPA[/COLOR] [COLOR blue]AMERICA[/COLOR] [COLOR blue]U[/COLOR][COLOR white]S[/COLOR][COLOR red]A[/COLOR]
 http://50.97.142.130/hls2/amlst:30001_ios/master.m3u8
-#EXTINF:-1 tvg-name="Bein Sports" tvg-logo="http://wefixmx.com/cgi-bin/Logos/pokercentral.png" group-title="DEPORTES",Poker Central
+#EXTINF:-1 tvg-name="Poker Central" tvg-logo="http://wefixmx.com/cgi-bin/Logos/pokercentral.png" group-title="DEPORTES",Poker Central
 http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
 #EXTINF:-1 tvg-name="TVC Deportes" tvg-logo="http://www.miralotv.org/images/tvcdeportes.png" group-title="DEPORTES”,TVC Deportes *(Prueba)*
-
+http://stream.ssh101.com:1935/live/TVCDEP/chunklist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png" group-title="DEPORTES",Bein Sports
-
+http://ak-cred-bein-us-es-stream.fubo.tv/UT-Origin/ngrp:BeInSports_ES_all/chunklist_b2128000.m3u8?hdnts=ip%3D189.212.225.137~st%3D1466290246~exp%3D1466290366~acl%3D%2F*~data%3D1466290366~hmac%3D763efa2290944392d61c746c6e882ae90d13a554dd7a779e32de70f2bb460f72
 #EXTINF:-1 tvg-name="Bein Sports" tvg-logo="http://4.bp.blogspot.com/-YD0YgEE4Kkw/VkDwhI1W9LI/AAAAAAAABb0/wMdnw0TJiTY/s1600/454.png" group-title="DEPORTES",Bein Sports Ñ
 https://pro.exabytetv.info/xtc/xkg584hgb6x7/287/exabytetv.m3u8
 #EXTINF:-1 tvg-name="Bein Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png" group-title="DEPORTES",Bein Sports
