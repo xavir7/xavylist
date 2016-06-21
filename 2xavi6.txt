@@ -809,6 +809,8 @@ http://goo.gl/DqR1eW
 
 #EXTINF:-1 tvg-name="Total Play" tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereS.png" group-title="Peliculas on Demand",       [COLOR red] ****PELICULAS ON DEMAND****[/COLOR]
 http://
+#EXTINF:1 tvg-logo="http://static.hoyts.com.ar/uploads/commingSoon/904.jpg" group-title="Peliculas on Demand",Milagros del Cielo By BassFox
+http://5.79.81.105:8777/qkipe2envpuzcg3h5gxsptpl26e37yyge4ze4ptnziftm37c3vmv5f2wvmha/v.flv
 #EXTINF:1 tvg-logo="http://static.chilango.com/media/2014/10/09/la-hija-de-moctezuma_9.jpg" group-title="Peliculas on Demand",La Hija de Moctezuma
 http://url.tkilla.com/cpE4XG
 #EXTINF:1 tvg-logo="http://pics.filmaffinity.com/Matando_Cabos-137008672-large.jpg" group-title="Peliculas on Demand",Matando Cabos
