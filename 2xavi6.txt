@@ -437,15 +437,15 @@ http://104.131.117.246:8081/chuy/76/358-MaxEste/playlist.m3u8
 #EXTINF:-1 tvg-name="USA" tvg-logo="http://culturesmash.tv/wp-content/uploads/2014/05/usa_network_logo-600x350.png" group-title="PREMIUM",USA
 
 #EXTINF:-1 tvg-name="SKY Premiere" tvg-logo="http://vignette3.wikia.nocookie.net/qm-coorpration-channel/images/1/15/Showtime_5th_Logo.png/revision/latest?cb=20130915214351" group-title="PREMIUM",Showtime
-
+http://www.x-media.tv:58080/live/giorgio/giorgio/1063.ts
 #EXTINF:-1 tvg-name="SKY 1" tvg-logo="http://wefixmx.com/cgi-bin/Logos/sky1.png" group-title="PREMIUM",SKY 1 USA
 
 #EXTINF:-1 tvg-name="SKY 2" tvg-logo=http://wefixmx.com/cgi-bin/Logos/sky2.png" group-title="PREMIUM",SKY 2 USA
 
-#EXTINF:-1 tvg-name="Sky Movies Action" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/c3/Star_Gold_HD_2011.png/revision/latest?cb=20110929114319" group-title="PREMIUM", StarPlus
-
-#EXTINF:-1 tvg-name="Sky Movies Action" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/c3/Star_Gold_HD_2011.png/revision/latest?cb=20110929114319" group-title="PREMIUM", StarGOLD
-
+#EXTINF:-1 tvg-name="" tvg-logo="http://www.entouch.net/wp-content/uploads/2014/12/starz_encore.png" group-title="PREMIUM",Starz Encore
+http://www.x-media.tv:58080/live/giorgio/giorgio/1072.ts
+#EXTINF:-1 tvg-name="" tvg-logo="https://csa.dishnetwork.com/images/logos/STZ-EDGE.PNG" group-title="PREMIUM",STARZ EDGE HD
+http://www.x-media.tv:58080/live/giorgio/giorgio/1073.ts
 #EXTINF:-1 tvg-name="SKY Modern Greats" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/e/ef/Sky-Movies-HD-Modern-Greats.png/revision/latest?cb=20111119124728" group-title="PREMIUM",SKY Modern Greats (Test)
 
 #EXTINF:-1 tvg-name="SKY Disney" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/channel-logo-sky-movies-disney.png" group-title="PREMIUM",SKY Disney (Test)
