@@ -108,9 +108,9 @@ http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="Sony" tvg-name="Sony HD" group-title="ENTRETENIMIENTO" tvg-logo="sony.png",Sony
 http://107.170.241.204:8081/live/74/sony/playlist.m3u8
 #EXTINF:-1 tvg-id="Sony HD" tvg-name="Sony HD" group-title="ENTRETENIMIENTO" tvg-logo="sony.png",Sony HD
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL203/PROFILE05.m3u8
+
 #EXTINF:-1 tvg-id="BBC Entertainment" tvg-name="BBC Entertainment" group-title="ENTRETENIMIENTO" tvg-logo="http://wefixmx.com/cgi-bin/Logos/bbc%20entretainment.png",BBC Entertainment
-http://pro.exabytetv.info/exaven.php?id=1387&cal=2&f=.m3u8
+http://live.tvplayerlatino.com/streaming/src1/FnUGG?2b3931425457
 #EXTINF:-1 tvg-id="Unicable" tvg-name="Unicable" group-title="ENTRETENIMIENTO" tvg-logo="http://wefixmx.com/cgi-bin/Logos/unicable.png",Unicable
 http://107.170.187.68:8081/live/sky68/Unicable/playlist.m3u8
 #EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner Channel" group-title="ENTRETENIMIENTO" tvg-logo="http://wefixmx.com/cgi-bin/Logos/warner-hd.png",Warner Channel
@@ -124,7 +124,7 @@ http://premium.exabytetv.info/total5/oi23hfiubecjn/413/exabytetv.m3u8
 #EXTINF:-1 tvg-id="SyFy" tvg-name="SyFy" group-title="CINEMA" tvg-logo="syfy.png",Syfy
 http://pro.exabytetv.info/exaven.php?id=1399&cal=2&f=.m3u8
 #EXTINF:-1 tvg-id="Universal Channel" tvg-name="Universal Channel" group-title="ENTRETENIMIENTO" tvg-logo="http://wefixmx.com/cgi-bin/Logos/universalchannel.png",Universal Channel
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL256/PROFILE03.m3u8
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL256/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1zvezda
 #EXTINF:-1 tvg-id="Universal Channel HD" tvg-name="Universal Channel HD" group-title="ENTRETENIMIENTO" tvg-logo="http://wefixmx.com/cgi-bin/Logos/universal-channelHD.png",Universal Channel HD
 http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL207/PROFILE05.m3u8
 #EXTINF:-1 tvg-name="A&amp;E" group-title="ENTRETENIMIENTO" tvg-logo="a&e.png",A&E
@@ -140,7 +140,7 @@ http://104.131.117.246:8081/chuy/76/884-TNTSeries/playlist.m3u8
 #EXTINF:-1 tvg-name="El Gourmet" tvg-logo="el-gourmet.png" group-title="ENTRETENIMIENTO",El Gourmet
 http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL268/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="Telemundo 39" tvg-name="Telemundo 39" tvg-logo="http://wefixmx.com/cgi-bin/Logos/telemundo.png" group-title="ENTRETENIMIENTO",Telemundo USA
-https://video10-lax.streamup.com/app/anahix10s-stream_aac/playlist.m3u8
+http://sjc-uhls-proxy106.ustream.tv/watch/playlist.m3u8?appType=103&appVersion=3&conn=wifi&cid=22514108&stream=2&connectionId=oldurl-870a823ec5006df06e1bce12cc712d21aa436216&group=iphone
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://wefixmx.com/cgi-bin/Logos/Telemundo.png" group-title="ENTRETENIMIENTO",Telemundo
 http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
 #EXTINF:-1 tvg-id="Telemundo PR" tvg-name="Telemundo PR" tvg-logo="http://wefixmx.com/cgi-bin/Logos/telemundopr.png" group-title="ENTRETENIMIENTO",Telemundo PR
@@ -150,7 +150,7 @@ http://104.131.117.246:8081/chuy/76/088-MundoFox/playlist.m3u8
 #EXTINF:-1 tvg-id="Mundo Max" tvg-name="Mundo Max" tvg-logo="http://wefixmx.com/cgi-bin/Logos/mundomax.png" group-title="ENTRETENIMIENTO",Mundo Max
 http://104.131.111.63:8081/hls/wjpx/playlist.m3u8
 #EXTINF:-1 tvg-name="Univisión Network (East) (UNI)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Univision_2013_logo.png" group-title="ENTRETENIMIENTO",Univision
-https://video01-tok.streamup.com/app/anahix11s-stream_aac/chunklist.m3u8
+http://sjc-uhls-proxy05.ustream.tv/watch/playlist.m3u8?appType=103&appVersion=3&conn=wifi&cid=22545290&stream=2&connectionId=oldurl-2b2ff40909f665290ee4fb47e220336876d06d4c&group=iphone
 #EXTINF:-1 tvg-name="Univisión" tvg-logo="http://wefixmx.com/cgi-bin/Logos/univisionpr.png" group-title="ENTRETENIMIENTO",Univision PR
 http://146.185.130.83:8081/nimble-live/Univision_PR/playlist.m3u8
 #EXTINF:-1 tvg-name="RCN Colombia" tvg-logo="http://www.canalrcn.com/sites/default/files/logo-rcn_10_1.png" group-title="ENTRETENIMIENTO",RCN Colombia
@@ -294,9 +294,9 @@ http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL430/PROFILE05.m3u8
 #EXTINF:-1 tvg-name="Cinemax" group-title="CINEMA" tvg-logo="http://4.bp.blogspot.com/-gxLdIo1BywI/Vg4MpELHCRI/AAAAAAAAAJI/2iRn0q9cgTQ/s1600/cinemax.png",Cinemax
 http://pro.exabytetv.info/exaven.php?id=1615&cal=2&f=.m3u8
 #EXTINF:-1 tvg-name="AMC" group-title="CINEMA" tvg-logo="http://wefixmx.com/cgi-bin/Logos/amc.png",AMC
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL490/PROFILE03.m3u8
+http://live.tvplayerlatino.com/streaming/src1/fRonE?2b3931425457
 #EXTINF:-1 tvg-name="AMC HD" group-title="CINEMA" tvg-logo="http://wefixmx.com/cgi-bin/Logos/amchd.png”,AMC HD
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL444/PROFILE05.m3u8
+http://live.tvplayerlatino.com/streaming/src1/fRonE?2b3931425457
 #EXTINF:-1 tvg-id="Space" tvg-name="Space" group-title="CINEMA" tvg-logo="space.png",Space
 http://209.126.124.25:8081/live/79/space/playlist.m3u8
 #EXTINF:-1 tvg-id="Space HD" tvg-name="Space HD" group-title="CINEMA" tvg-logo="space-hd.png",Space HD
@@ -380,7 +380,7 @@ http://107.170.187.68:8081/live/sky68/G0ldenpreMIERE2csp/playlist.m3u8
 #EXTINF:-1 tvg-id="Golden Multiplex" tvg-name="Golden Multiplex" group-title="CINEMA" tvg-logo="http://imagenes.gatotv.com/logos/canales/golden_mpx.png",Golden Multiplex
 
 #EXTINF:-1 tvg-id="Fox 1 HD" tvg-name="Fox 1 HD" tvg-logo="fox-1-hd.png" group-title="PREMIUM",Fox 1 HD
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL415/PROFILE03.m3u8
+http://191.101.228.168/tp.php/playlist.m3u8?id=1559
 #EXTINF:-1 tvg-id="Fox Action HD" tvg-name="Fox Action HD" tvg-logo="fox-action.png" group-title="PREMIUM",FOX Action
 http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL416/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="Fox Movies HD" tvg-name="Fox Movies HD" tvg-logo="fox-movies-HD.png" group-title="PREMIUM",FOX Movies
