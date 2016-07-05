@@ -142,7 +142,7 @@ http://pro.exabytetv.info/exaven.php?id=1415&cal=2&f=.m3u8
 #EXTINF:-1 tvg-id="Telemundo 39" tvg-name="Telemundo 39" tvg-logo="http://wefixmx.com/cgi-bin/Logos/telemundo.png" group-title="ENTRETENIMIENTO",Telemundo USA
 http://sjc-uhls-proxy106.ustream.tv/watch/playlist.m3u8?appType=103&appVersion=3&conn=wifi&cid=22514108&stream=2&connectionId=oldurl-870a823ec5006df06e1bce12cc712d21aa436216&group=iphone
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://wefixmx.com/cgi-bin/Logos/Telemundo.png" group-title="ENTRETENIMIENTO",Telemundo
-http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
+http://iphone-streaming.ustream.tv/uhls/22514108/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-id="Telemundo PR" tvg-name="Telemundo PR" tvg-logo="http://wefixmx.com/cgi-bin/Logos/telemundopr.png" group-title="ENTRETENIMIENTO",Telemundo PR
 http://146.185.130.83:8081/nimble-live/Telemundo_PR/playlist.m3u8
 #EXTINF:-1 tvg-id="Mundo Fox" tvg-name="Mundo Fox" tvg-logo="http://wefixmx.com/cgi-bin/Logos/mundofox.png" group-title="ENTRETENIMIENTO",Mundo Fox
@@ -150,7 +150,7 @@ http://104.131.117.246:8081/chuy/76/088-MundoFox/playlist.m3u8
 #EXTINF:-1 tvg-id="Mundo Max" tvg-name="Mundo Max" tvg-logo="http://wefixmx.com/cgi-bin/Logos/mundomax.png" group-title="ENTRETENIMIENTO",Mundo Max
 http://104.131.111.63:8081/hls/wjpx/playlist.m3u8
 #EXTINF:-1 tvg-name="Univisión Network (East) (UNI)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Univision_2013_logo.png" group-title="ENTRETENIMIENTO",Univision
-http://sjc-uhls-proxy05.ustream.tv/watch/playlist.m3u8?appType=103&appVersion=3&conn=wifi&cid=22545290&stream=2&connectionId=oldurl-2b2ff40909f665290ee4fb47e220336876d06d4c&group=iphone
+http://iphone-streaming.ustream.tv/uhls/22514108/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-name="Univisión" tvg-logo="http://wefixmx.com/cgi-bin/Logos/univisionpr.png" group-title="ENTRETENIMIENTO",Univision PR
 http://146.185.130.83:8081/nimble-live/Univision_PR/playlist.m3u8
 #EXTINF:-1 tvg-name="RCN Colombia" tvg-logo="http://www.canalrcn.com/sites/default/files/logo-rcn_10_1.png" group-title="ENTRETENIMIENTO",RCN Colombia
