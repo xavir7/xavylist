@@ -122,9 +122,9 @@ http://198.50.201.154:1397/live/Xavi/Rojas/94.ts
 #EXTINF:-1,HBO Plus
 http://198.50.201.154:1397/live/Xavi/Rojas/49.ts
 #EXTINF:-1,HBO Family
-http://198.50.201.154:1397/live/Xavi/Rojas/50.ts
+http://209.126.124.25:8081/live/sky79/652-HBOFamilycsp/playlist.m3u8
 #EXTINF:-1,HBO 2
-http://198.50.201.154:1397/live/Xavi/Rojas/48.ts
+http://209.126.124.25:8081/live/sky79/651-HBO2csp/playlist.m3u8
 #EXTINF:-1,HBO (W)
 http://198.50.201.154:1397/live/Xavi/Rojas/7.ts
 #EXTINF:-1,Golden Edge
